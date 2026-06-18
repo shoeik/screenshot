@@ -1,0 +1,1859 @@
+{
+  "https://nyle.co.jp/": {
+    "meta": {
+      "url": "https://nyle.co.jp/",
+      "domain": "nyle_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2025-12-29T04:53:45.841Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/top/nyle_co_jp_top_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/top/nyle_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": [
+      "simple"
+    ]
+  },
+  "https://nyle.co.jp/news/": {
+    "meta": {
+      "url": "https://nyle.co.jp/news/",
+      "domain": "nyle_co_jp",
+      "slug": "news",
+      "path": "/news/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T04:54:10.658Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/news/nyle_co_jp_news_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/news/nyle_co_jp_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/news/release/": {
+    "meta": {
+      "url": "https://nyle.co.jp/news/release/",
+      "domain": "nyle_co_jp",
+      "slug": "news_release",
+      "path": "/news/release/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:54:35.756Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/news_release/nyle_co_jp_news_release_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/news_release/nyle_co_jp_news_release_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/news/research/": {
+    "meta": {
+      "url": "https://nyle.co.jp/news/research/",
+      "domain": "nyle_co_jp",
+      "slug": "news_research",
+      "path": "/news/research/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:55:00.878Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/news_research/nyle_co_jp_news_research_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/news_research/nyle_co_jp_news_research_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/news/media/": {
+    "meta": {
+      "url": "https://nyle.co.jp/news/media/",
+      "domain": "nyle_co_jp",
+      "slug": "news_media",
+      "path": "/news/media/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:55:24.952Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/news_media/nyle_co_jp_news_media_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/news_media/nyle_co_jp_news_media_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/news/information/": {
+    "meta": {
+      "url": "https://nyle.co.jp/news/information/",
+      "domain": "nyle_co_jp",
+      "slug": "news_information",
+      "path": "/news/information/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:55:49.092Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/news_information/nyle_co_jp_news_information_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/news_information/nyle_co_jp_news_information_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/business/": {
+    "meta": {
+      "url": "https://nyle.co.jp/business/",
+      "domain": "nyle_co_jp",
+      "slug": "business",
+      "path": "/business/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T04:56:13.877Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/business/nyle_co_jp_business_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/business/nyle_co_jp_business_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/business/digital-marketing/": {
+    "meta": {
+      "url": "https://nyle.co.jp/business/digital-marketing/",
+      "domain": "nyle_co_jp",
+      "slug": "business_digital-marketing",
+      "path": "/business/digital-marketing/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:56:43.090Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/business_digital-marketing/nyle_co_jp_business_digital-marketing_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/business_digital-marketing/nyle_co_jp_business_digital-marketing_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/business/media/": {
+    "meta": {
+      "url": "https://nyle.co.jp/business/media/",
+      "domain": "nyle_co_jp",
+      "slug": "business_media",
+      "path": "/business/media/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:57:12.459Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/business_media/nyle_co_jp_business_media_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/business_media/nyle_co_jp_business_media_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/business/mobility/": {
+    "meta": {
+      "url": "https://nyle.co.jp/business/mobility/",
+      "domain": "nyle_co_jp",
+      "slug": "business_mobility",
+      "path": "/business/mobility/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:57:37.972Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/business_mobility/nyle_co_jp_business_mobility_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/business_mobility/nyle_co_jp_business_mobility_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/company/": {
+    "meta": {
+      "url": "https://nyle.co.jp/company/",
+      "domain": "nyle_co_jp",
+      "slug": "company",
+      "path": "/company/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T04:58:03.018Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/company/nyle_co_jp_company_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/company/nyle_co_jp_company_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/company/philosophy/": {
+    "meta": {
+      "url": "https://nyle.co.jp/company/philosophy/",
+      "domain": "nyle_co_jp",
+      "slug": "company_philosophy",
+      "path": "/company/philosophy/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:58:28.369Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/company_philosophy/nyle_co_jp_company_philosophy_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/company_philosophy/nyle_co_jp_company_philosophy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/company/executive/": {
+    "meta": {
+      "url": "https://nyle.co.jp/company/executive/",
+      "domain": "nyle_co_jp",
+      "slug": "company_executive",
+      "path": "/company/executive/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:59:00.228Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/company_executive/nyle_co_jp_company_executive_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/company_executive/nyle_co_jp_company_executive_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/company/about/": {
+    "meta": {
+      "url": "https://nyle.co.jp/company/about/",
+      "domain": "nyle_co_jp",
+      "slug": "company_about",
+      "path": "/company/about/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T04:59:26.012Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/company_about/nyle_co_jp_company_about_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/company_about/nyle_co_jp_company_about_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/sustainability/": {
+    "meta": {
+      "url": "https://nyle.co.jp/sustainability/",
+      "domain": "nyle_co_jp",
+      "slug": "sustainability",
+      "path": "/sustainability/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:00:15.953Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/sustainability/nyle_co_jp_sustainability_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/sustainability/nyle_co_jp_sustainability_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir",
+      "domain": "nyle_co_jp",
+      "slug": "ir",
+      "path": "/ir",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:00:42.282Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir/nyle_co_jp_ir_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir/nyle_co_jp_ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/library/results": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/library/results",
+      "domain": "nyle_co_jp",
+      "slug": "ir_library_results",
+      "path": "/ir/library/results",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:01:06.933Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_library_results/nyle_co_jp_ir_library_results_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_library_results/nyle_co_jp_ir_library_results_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/management/message": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/management/message",
+      "domain": "nyle_co_jp",
+      "slug": "ir_management_message",
+      "path": "/ir/management/message",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:01:34.296Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_management_message/nyle_co_jp_ir_management_message_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_management_message/nyle_co_jp_ir_management_message_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/stock/overview": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/stock/overview",
+      "domain": "nyle_co_jp",
+      "slug": "ir_stock_overview",
+      "path": "/ir/stock/overview",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:01:59.601Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_stock_overview/nyle_co_jp_ir_stock_overview_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_stock_overview/nyle_co_jp_ir_stock_overview_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/highlight": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/highlight",
+      "domain": "nyle_co_jp",
+      "slug": "ir_highlight",
+      "path": "/ir/highlight",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:02:26.437Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_highlight/nyle_co_jp_ir_highlight_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_highlight/nyle_co_jp_ir_highlight_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/calendar": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/calendar",
+      "domain": "nyle_co_jp",
+      "slug": "ir_calendar",
+      "path": "/ir/calendar",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:02:52.728Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_calendar/nyle_co_jp_ir_calendar_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_calendar/nyle_co_jp_ir_calendar_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/faq": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/faq",
+      "domain": "nyle_co_jp",
+      "slug": "ir_faq",
+      "path": "/ir/faq",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:03:17.993Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_faq/nyle_co_jp_ir_faq_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_faq/nyle_co_jp_ir_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/disclaimer": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/disclaimer",
+      "domain": "nyle_co_jp",
+      "slug": "ir_disclaimer",
+      "path": "/ir/disclaimer",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:03:42.681Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_disclaimer/nyle_co_jp_ir_disclaimer_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_disclaimer/nyle_co_jp_ir_disclaimer_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/contact": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/contact",
+      "domain": "nyle_co_jp",
+      "slug": "ir_contact",
+      "path": "/ir/contact",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:04:07.431Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_contact/nyle_co_jp_ir_contact_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_contact/nyle_co_jp_ir_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/news": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/news",
+      "domain": "nyle_co_jp",
+      "slug": "ir_news",
+      "path": "/ir/news",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:04:31.728Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_news/nyle_co_jp_ir_news_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_news/nyle_co_jp_ir_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/notice/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/notice/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_notice",
+      "path": "/ir/notice/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:04:55.968Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_notice/nyle_co_jp_ir_notice_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_notice/nyle_co_jp_ir_notice_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit",
+      "path": "/recruit/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:05:26.185Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit/nyle_co_jp_recruit_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit/nyle_co_jp_recruit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/career/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/career/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit_career",
+      "path": "/recruit/career/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:05:54.191Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit_career/nyle_co_jp_recruit_career_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit_career/nyle_co_jp_recruit_career_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/potential/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/potential/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit_potential",
+      "path": "/recruit/potential/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:06:25.509Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit_potential/nyle_co_jp_recruit_potential_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit_potential/nyle_co_jp_recruit_potential_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/culture/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/culture/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit_culture",
+      "path": "/recruit/culture/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:06:53.579Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit_culture/nyle_co_jp_recruit_culture_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit_culture/nyle_co_jp_recruit_culture_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/benefits/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/benefits/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit_benefits",
+      "path": "/recruit/benefits/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:07:20.477Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit_benefits/nyle_co_jp_recruit_benefits_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit_benefits/nyle_co_jp_recruit_benefits_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/recruit/faq/": {
+    "meta": {
+      "url": "https://nyle.co.jp/recruit/faq/",
+      "domain": "nyle_co_jp",
+      "slug": "recruit_faq",
+      "path": "/recruit/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:07:46.594Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/recruit_faq/nyle_co_jp_recruit_faq_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/recruit_faq/nyle_co_jp_recruit_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/contact/?click=header": {
+    "meta": {
+      "url": "https://nyle.co.jp/contact/?click=header",
+      "domain": "nyle_co_jp",
+      "slug": "contact",
+      "path": "/contact/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:08:11.712Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/contact/nyle_co_jp_contact_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/contact/nyle_co_jp_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/privacypolicy/": {
+    "meta": {
+      "url": "https://nyle.co.jp/privacypolicy/",
+      "domain": "nyle_co_jp",
+      "slug": "privacypolicy",
+      "path": "/privacypolicy/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:08:40.865Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/privacypolicy/nyle_co_jp_privacypolicy_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/privacypolicy/nyle_co_jp_privacypolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/compliancepolicy/": {
+    "meta": {
+      "url": "https://nyle.co.jp/compliancepolicy/",
+      "domain": "nyle_co_jp",
+      "slug": "compliancepolicy",
+      "path": "/compliancepolicy/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:09:10.417Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/compliancepolicy/nyle_co_jp_compliancepolicy_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/compliancepolicy/nyle_co_jp_compliancepolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/securitypolicy/": {
+    "meta": {
+      "url": "https://nyle.co.jp/securitypolicy/",
+      "domain": "nyle_co_jp",
+      "slug": "securitypolicy",
+      "path": "/securitypolicy/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:09:38.473Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/securitypolicy/nyle_co_jp_securitypolicy_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/securitypolicy/nyle_co_jp_securitypolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/privacypolicy-for-recruit/": {
+    "meta": {
+      "url": "https://nyle.co.jp/privacypolicy-for-recruit/",
+      "domain": "nyle_co_jp",
+      "slug": "privacypolicy-for-recruit",
+      "path": "/privacypolicy-for-recruit/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:10:03.808Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/privacypolicy-for-recruit/nyle_co_jp_privacypolicy-for-recruit_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/privacypolicy-for-recruit/nyle_co_jp_privacypolicy-for-recruit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/lp/editor/": {
+    "meta": {
+      "url": "https://nyle.co.jp/lp/editor/",
+      "domain": "nyle_co_jp",
+      "slug": "lp_editor",
+      "path": "/lp/editor/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:10:50.897Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/lp_editor/nyle_co_jp_lp_editor_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/lp_editor/nyle_co_jp_lp_editor_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/lp/consultant/": {
+    "meta": {
+      "url": "https://nyle.co.jp/lp/consultant/",
+      "domain": "nyle_co_jp",
+      "slug": "lp_consultant",
+      "path": "/lp/consultant/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:11:20.515Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/lp_consultant/nyle_co_jp_lp_consultant_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/lp_consultant/nyle_co_jp_lp_consultant_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/lp/engineer/": {
+    "meta": {
+      "url": "https://nyle.co.jp/lp/engineer/",
+      "domain": "nyle_co_jp",
+      "slug": "lp_engineer",
+      "path": "/lp/engineer/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:11:46.297Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/lp_engineer/nyle_co_jp_lp_engineer_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/lp_engineer/nyle_co_jp_lp_engineer_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/stock/benefit/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/stock/benefit/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_stock_benefit",
+      "path": "/ir/stock/benefit/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:12:10.585Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_stock_benefit/nyle_co_jp_ir_stock_benefit_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_stock_benefit/nyle_co_jp_ir_stock_benefit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/brand/": {
+    "meta": {
+      "url": "https://nyle.co.jp/brand/",
+      "domain": "nyle_co_jp",
+      "slug": "brand",
+      "path": "/brand/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:12:36.561Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/brand/nyle_co_jp_brand_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/brand/nyle_co_jp_brand_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/library/presentation/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/library/presentation/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_library_presentation",
+      "path": "/ir/library/presentation/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:13:03.217Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_library_presentation/nyle_co_jp_ir_library_presentation_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_library_presentation/nyle_co_jp_ir_library_presentation_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/library/securities/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/library/securities/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_library_securities",
+      "path": "/ir/library/securities/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:13:27.544Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_library_securities/nyle_co_jp_ir_library_securities_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_library_securities/nyle_co_jp_ir_library_securities_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/library/material/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/library/material/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_library_material",
+      "path": "/ir/library/material/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:13:52.836Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_library_material/nyle_co_jp_ir_library_material_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_library_material/nyle_co_jp_ir_library_material_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/management/governance/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/management/governance/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_management_governance",
+      "path": "/ir/management/governance/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:14:17.117Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_management_governance/nyle_co_jp_ir_management_governance_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_management_governance/nyle_co_jp_ir_management_governance_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/management/disclosure/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/management/disclosure/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_management_disclosure",
+      "path": "/ir/management/disclosure/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:14:44.098Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_management_disclosure/nyle_co_jp_ir_management_disclosure_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_management_disclosure/nyle_co_jp_ir_management_disclosure_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/ir/stock/meeting/": {
+    "meta": {
+      "url": "https://nyle.co.jp/ir/stock/meeting/",
+      "domain": "nyle_co_jp",
+      "slug": "ir_stock_meeting",
+      "path": "/ir/stock/meeting/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:15:13.355Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/ir_stock_meeting/nyle_co_jp_ir_stock_meeting_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/ir_stock_meeting/nyle_co_jp_ir_stock_meeting_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/contact/magazine-ir": {
+    "meta": {
+      "url": "https://nyle.co.jp/contact/magazine-ir",
+      "domain": "nyle_co_jp",
+      "slug": "contact_magazine-ir",
+      "path": "/contact/magazine-ir",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:15:38.420Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/contact_magazine-ir/nyle_co_jp_contact_magazine-ir_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/contact_magazine-ir/nyle_co_jp_contact_magazine-ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/contact/form-ir/": {
+    "meta": {
+      "url": "https://nyle.co.jp/contact/form-ir/",
+      "domain": "nyle_co_jp",
+      "slug": "contact_form-ir",
+      "path": "/contact/form-ir/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:16:04.401Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/contact_form-ir/nyle_co_jp_contact_form-ir_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/contact_form-ir/nyle_co_jp_contact_form-ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/contact/form/": {
+    "meta": {
+      "url": "https://nyle.co.jp/contact/form/",
+      "domain": "nyle_co_jp",
+      "slug": "contact_form",
+      "path": "/contact/form/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:16:29.200Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/contact_form/nyle_co_jp_contact_form_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/contact_form/nyle_co_jp_contact_form_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/nyle-tride/contact/form/": {
+    "meta": {
+      "url": "https://nyle.co.jp/nyle-tride/contact/form/",
+      "domain": "nyle_co_jp",
+      "slug": "nyle-tride_contact_form",
+      "path": "/nyle-tride/contact/form/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:16:53.239Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/nyle-tride_contact_form/nyle_co_jp_nyle-tride_contact_form_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/nyle-tride_contact_form/nyle_co_jp_nyle-tride_contact_form_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://nyle.co.jp/404": {
+    "meta": {
+      "url": "https://nyle.co.jp/404",
+      "domain": "nyle_co_jp",
+      "slug": "404",
+      "path": "/404",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:17:17.958Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/nyle_co_jp/404/nyle_co_jp_404_pc.webp",
+        "sp": "../screenshots/nyle_co_jp/404/nyle_co_jp_404_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

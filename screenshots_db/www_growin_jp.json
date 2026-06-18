@@ -1,0 +1,1892 @@
+{
+  "https://www.growin.jp/": {
+    "meta": {
+      "url": "https://www.growin.jp/",
+      "domain": "www_growin_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2025-12-29T05:25:40.373Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/top/www_growin_jp_top_pc.webp",
+        "sp": "../screenshots/www_growin_jp/top/www_growin_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/value/": {
+    "meta": {
+      "url": "https://www.growin.jp/value/",
+      "domain": "www_growin_jp",
+      "slug": "value",
+      "path": "/value/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:26:02.575Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/value/www_growin_jp_value_pc.webp",
+        "sp": "../screenshots/www_growin_jp/value/www_growin_jp_value_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/",
+      "domain": "www_growin_jp",
+      "slug": "about",
+      "path": "/about/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:26:23.130Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about/www_growin_jp_about_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about/www_growin_jp_about_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/principle/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/principle/",
+      "domain": "www_growin_jp",
+      "slug": "about_principle",
+      "path": "/about/principle/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:26:45.241Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_principle/www_growin_jp_about_principle_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_principle/www_growin_jp_about_principle_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/message/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/message/",
+      "domain": "www_growin_jp",
+      "slug": "about_message",
+      "path": "/about/message/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:27:08.801Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_message/www_growin_jp_about_message_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_message/www_growin_jp_about_message_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/management-team/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/management-team/",
+      "domain": "www_growin_jp",
+      "slug": "about_management-team",
+      "path": "/about/management-team/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:27:31.202Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_management-team/www_growin_jp_about_management-team_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_management-team/www_growin_jp_about_management-team_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/profile/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/profile/",
+      "domain": "www_growin_jp",
+      "slug": "about_profile",
+      "path": "/about/profile/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:27:53.083Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_profile/www_growin_jp_about_profile_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_profile/www_growin_jp_about_profile_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/access/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/access/",
+      "domain": "www_growin_jp",
+      "slug": "about_access",
+      "path": "/about/access/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:28:14.680Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_access/www_growin_jp_about_access_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_access/www_growin_jp_about_access_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/about/history/": {
+    "meta": {
+      "url": "https://www.growin.jp/about/history/",
+      "domain": "www_growin_jp",
+      "slug": "about_history",
+      "path": "/about/history/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:28:36.614Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/about_history/www_growin_jp_about_history_pc.webp",
+        "sp": "../screenshots/www_growin_jp/about_history/www_growin_jp_about_history_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/",
+      "domain": "www_growin_jp",
+      "slug": "management",
+      "path": "/management/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:29:09.588Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management/www_growin_jp_management_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management/www_growin_jp_management_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/ma/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/ma/",
+      "domain": "www_growin_jp",
+      "slug": "management_ma",
+      "path": "/management/ma/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:29:44.893Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_ma/www_growin_jp_management_ma_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_ma/www_growin_jp_management_ma_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/fin_ac/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/fin_ac/",
+      "domain": "www_growin_jp",
+      "slug": "management_fin_ac",
+      "path": "/management/fin_ac/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:30:17.519Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_fin_ac/www_growin_jp_management_fin_ac_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_fin_ac/www_growin_jp_management_fin_ac_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/dx/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/dx/",
+      "domain": "www_growin_jp",
+      "slug": "management_dx",
+      "path": "/management/dx/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:30:53.113Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_dx/www_growin_jp_management_dx_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_dx/www_growin_jp_management_dx_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/hr/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/hr/",
+      "domain": "www_growin_jp",
+      "slug": "management_hr",
+      "path": "/management/hr/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:31:28.446Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_hr/www_growin_jp_management_hr_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_hr/www_growin_jp_management_hr_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/global/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/global/",
+      "domain": "www_growin_jp",
+      "slug": "management_global",
+      "path": "/management/global/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:32:07.810Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_global/www_growin_jp_management_global_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_global/www_growin_jp_management_global_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/venture/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/venture/",
+      "domain": "www_growin_jp",
+      "slug": "management_venture",
+      "path": "/management/venture/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:32:39.502Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_venture/www_growin_jp_management_venture_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_venture/www_growin_jp_management_venture_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/succession/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/succession/",
+      "domain": "www_growin_jp",
+      "slug": "management_succession",
+      "path": "/management/succession/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:33:17.096Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_succession/www_growin_jp_management_succession_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_succession/www_growin_jp_management_succession_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/management/pmi/": {
+    "meta": {
+      "url": "https://www.growin.jp/management/pmi/",
+      "domain": "www_growin_jp",
+      "slug": "management_pmi",
+      "path": "/management/pmi/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:33:49.694Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/management_pmi/www_growin_jp_management_pmi_pc.webp",
+        "sp": "../screenshots/www_growin_jp/management_pmi/www_growin_jp_management_pmi_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/",
+      "domain": "www_growin_jp",
+      "slug": "case",
+      "path": "/case/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:34:17.722Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case/www_growin_jp_case_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case/www_growin_jp_case_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/seminar/": {
+    "meta": {
+      "url": "https://www.growin.jp/seminar/",
+      "domain": "www_growin_jp",
+      "slug": "seminar",
+      "path": "/seminar/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:34:50.541Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/seminar/www_growin_jp_seminar_pc.webp",
+        "sp": "../screenshots/www_growin_jp/seminar/www_growin_jp_seminar_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/news/": {
+    "meta": {
+      "url": "https://www.growin.jp/news/",
+      "domain": "www_growin_jp",
+      "slug": "news",
+      "path": "/news/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:35:12.682Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/news/www_growin_jp_news_pc.webp",
+        "sp": "../screenshots/www_growin_jp/news/www_growin_jp_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/info/": {
+    "meta": {
+      "url": "https://www.growin.jp/info/",
+      "domain": "www_growin_jp",
+      "slug": "info",
+      "path": "/info/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:35:38.380Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/info/www_growin_jp_info_pc.webp",
+        "sp": "../screenshots/www_growin_jp/info/www_growin_jp_info_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/",
+      "domain": "www_growin_jp",
+      "slug": "recruit",
+      "path": "/recruit/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:36:01.033Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit/www_growin_jp_recruit_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit/www_growin_jp_recruit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/security/": {
+    "meta": {
+      "url": "https://www.growin.jp/security/",
+      "domain": "www_growin_jp",
+      "slug": "security",
+      "path": "/security/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:36:21.879Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/security/www_growin_jp_security_pc.webp",
+        "sp": "../screenshots/www_growin_jp/security/www_growin_jp_security_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/ma_guideline/": {
+    "meta": {
+      "url": "https://www.growin.jp/ma_guideline/",
+      "domain": "www_growin_jp",
+      "slug": "ma_guideline",
+      "path": "/ma_guideline/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:36:43.464Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/ma_guideline/www_growin_jp_ma_guideline_pc.webp",
+        "sp": "../screenshots/www_growin_jp/ma_guideline/www_growin_jp_ma_guideline_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/sitepolicy/": {
+    "meta": {
+      "url": "https://www.growin.jp/sitepolicy/",
+      "domain": "www_growin_jp",
+      "slug": "sitepolicy",
+      "path": "/sitepolicy/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:37:05.573Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/sitepolicy/www_growin_jp_sitepolicy_pc.webp",
+        "sp": "../screenshots/www_growin_jp/sitepolicy/www_growin_jp_sitepolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/privacy/": {
+    "meta": {
+      "url": "https://www.growin.jp/privacy/",
+      "domain": "www_growin_jp",
+      "slug": "privacy",
+      "path": "/privacy/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:37:28.057Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/privacy/www_growin_jp_privacy_pc.webp",
+        "sp": "../screenshots/www_growin_jp/privacy/www_growin_jp_privacy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/1726/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/1726/",
+      "domain": "www_growin_jp",
+      "slug": "case_1726",
+      "path": "/case/1726/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:37:50.912Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_1726/www_growin_jp_case_1726_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_1726/www_growin_jp_case_1726_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/1675/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/1675/",
+      "domain": "www_growin_jp",
+      "slug": "case_1675",
+      "path": "/case/1675/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:38:15.997Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_1675/www_growin_jp_case_1675_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_1675/www_growin_jp_case_1675_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/news/1716/": {
+    "meta": {
+      "url": "https://www.growin.jp/news/1716/",
+      "domain": "www_growin_jp",
+      "slug": "news_1716",
+      "path": "/news/1716/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:38:37.349Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/news_1716/www_growin_jp_news_1716_pc.webp",
+        "sp": "../screenshots/www_growin_jp/news_1716/www_growin_jp_news_1716_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/news/1709/": {
+    "meta": {
+      "url": "https://www.growin.jp/news/1709/",
+      "domain": "www_growin_jp",
+      "slug": "news_1709",
+      "path": "/news/1709/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:38:59.089Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/news_1709/www_growin_jp_news_1709_pc.webp",
+        "sp": "../screenshots/www_growin_jp/news_1709/www_growin_jp_news_1709_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/news/1701/": {
+    "meta": {
+      "url": "https://www.growin.jp/news/1701/",
+      "domain": "www_growin_jp",
+      "slug": "news_1701",
+      "path": "/news/1701/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:39:20.427Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/news_1701/www_growin_jp_news_1701_pc.webp",
+        "sp": "../screenshots/www_growin_jp/news_1701/www_growin_jp_news_1701_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/1308/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/1308/",
+      "domain": "www_growin_jp",
+      "slug": "case_1308",
+      "path": "/case/1308/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:39:44.351Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_1308/www_growin_jp_case_1308_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_1308/www_growin_jp_case_1308_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/page/2/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/page/2/",
+      "domain": "www_growin_jp",
+      "slug": "case_page_2",
+      "path": "/case/page/2/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:40:11.505Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_page_2/www_growin_jp_case_page_2_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_page_2/www_growin_jp_case_page_2_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/page/3/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/page/3/",
+      "domain": "www_growin_jp",
+      "slug": "case_page_3",
+      "path": "/case/page/3/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:40:37.637Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_page_3/www_growin_jp_case_page_3_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_page_3/www_growin_jp_case_page_3_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/case/page/4/": {
+    "meta": {
+      "url": "https://www.growin.jp/case/page/4/",
+      "domain": "www_growin_jp",
+      "slug": "case_page_4",
+      "path": "/case/page/4/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:41:04.919Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/case_page_4/www_growin_jp_case_page_4_pc.webp",
+        "sp": "../screenshots/www_growin_jp/case_page_4/www_growin_jp_case_page_4_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/seminar/page/2/": {
+    "meta": {
+      "url": "https://www.growin.jp/seminar/page/2/",
+      "domain": "www_growin_jp",
+      "slug": "seminar_page_2",
+      "path": "/seminar/page/2/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:41:38.208Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/seminar_page_2/www_growin_jp_seminar_page_2_pc.webp",
+        "sp": "../screenshots/www_growin_jp/seminar_page_2/www_growin_jp_seminar_page_2_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/seminar/page/3/": {
+    "meta": {
+      "url": "https://www.growin.jp/seminar/page/3/",
+      "domain": "www_growin_jp",
+      "slug": "seminar_page_3",
+      "path": "/seminar/page/3/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:42:11.586Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/seminar_page_3/www_growin_jp_seminar_page_3_pc.webp",
+        "sp": "../screenshots/www_growin_jp/seminar_page_3/www_growin_jp_seminar_page_3_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/seminar/page/4/": {
+    "meta": {
+      "url": "https://www.growin.jp/seminar/page/4/",
+      "domain": "www_growin_jp",
+      "slug": "seminar_page_4",
+      "path": "/seminar/page/4/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T05:42:44.175Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/seminar_page_4/www_growin_jp_seminar_page_4_pc.webp",
+        "sp": "../screenshots/www_growin_jp/seminar_page_4/www_growin_jp_seminar_page_4_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/philosophy/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/philosophy/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_philosophy",
+      "path": "/recruit/philosophy/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:43:07.672Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_philosophy/www_growin_jp_recruit_philosophy_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_philosophy/www_growin_jp_recruit_philosophy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/special/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/special/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_special",
+      "path": "/recruit/special/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:43:30.482Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_special/www_growin_jp_recruit_special_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_special/www_growin_jp_recruit_special_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people",
+      "path": "/recruit/people/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:43:54.069Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people/www_growin_jp_recruit_people_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people/www_growin_jp_recruit_people_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/career/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/career/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_career",
+      "path": "/recruit/career/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:44:16.450Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_career/www_growin_jp_recruit_career_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_career/www_growin_jp_recruit_career_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/innumbers/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/innumbers/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_innumbers",
+      "path": "/recruit/innumbers/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:44:40.036Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_innumbers/www_growin_jp_recruit_innumbers_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_innumbers/www_growin_jp_recruit_innumbers_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/faq/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/faq/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_faq",
+      "path": "/recruit/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T05:45:03.246Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_faq/www_growin_jp_recruit_faq_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_faq/www_growin_jp_recruit_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/session/session01/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/session/session01/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_session_session01",
+      "path": "/recruit/people/session/session01/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:45:25.562Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_session_session01/www_growin_jp_recruit_people_session_session01_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_session_session01/www_growin_jp_recruit_people_session_session01_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/session/session02/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/session/session02/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_session_session02",
+      "path": "/recruit/people/session/session02/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:45:47.627Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_session_session02/www_growin_jp_recruit_people_session_session02_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_session_session02/www_growin_jp_recruit_people_session_session02_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/interview/interview01/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/interview/interview01/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_interview_interview01",
+      "path": "/recruit/people/interview/interview01/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:46:10.774Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_interview_interview01/www_growin_jp_recruit_people_interview_interview01_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_interview_interview01/www_growin_jp_recruit_people_interview_interview01_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/interview/interview02/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/interview/interview02/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_interview_interview02",
+      "path": "/recruit/people/interview/interview02/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:46:33.665Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_interview_interview02/www_growin_jp_recruit_people_interview_interview02_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_interview_interview02/www_growin_jp_recruit_people_interview_interview02_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/interview/interview03/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/interview/interview03/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_interview_interview03",
+      "path": "/recruit/people/interview/interview03/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:46:56.645Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_interview_interview03/www_growin_jp_recruit_people_interview_interview03_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_interview_interview03/www_growin_jp_recruit_people_interview_interview03_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/alumni/alumni01/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/alumni/alumni01/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_alumni_alumni01",
+      "path": "/recruit/people/alumni/alumni01/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:47:19.743Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_alumni_alumni01/www_growin_jp_recruit_people_alumni_alumni01_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_alumni_alumni01/www_growin_jp_recruit_people_alumni_alumni01_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/alumni/alumni02/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/alumni/alumni02/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_alumni_alumni02",
+      "path": "/recruit/people/alumni/alumni02/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:47:44.745Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_alumni_alumni02/www_growin_jp_recruit_people_alumni_alumni02_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_alumni_alumni02/www_growin_jp_recruit_people_alumni_alumni02_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/recruit/people/alumni/alumni03/": {
+    "meta": {
+      "url": "https://www.growin.jp/recruit/people/alumni/alumni03/",
+      "domain": "www_growin_jp",
+      "slug": "recruit_people_alumni_alumni03",
+      "path": "/recruit/people/alumni/alumni03/",
+      "depth": 4,
+      "capturedAt": "2025-12-29T05:48:08.002Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/recruit_people_alumni_alumni03/www_growin_jp_recruit_people_alumni_alumni03_pc.webp",
+        "sp": "../screenshots/www_growin_jp/recruit_people_alumni_alumni03/www_growin_jp_recruit_people_alumni_alumni03_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://www.growin.jp/404": {
+    "meta": {
+      "url": "https://www.growin.jp/404",
+      "domain": "www_growin_jp",
+      "slug": "404",
+      "path": "/404",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:48:29.803Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_growin_jp/404/www_growin_jp_404_pc.webp",
+        "sp": "../screenshots/www_growin_jp/404/www_growin_jp_404_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

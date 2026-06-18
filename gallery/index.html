@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>Screenshot Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="header">
+  <h1>Screenshot Gallery</h1>
+
+  <!-- 検索 -->
+  <input id="search" type="text" placeholder="検索（URL / タグ / ドメイン）" />
+
+  <!-- 表示切り替え（NEW） -->
+  <div class="view-toggle">
+    <button data-view="pc" class="is-active">PC</button>
+    <button data-view="sp" class="">SP</button>
+    <button data-view="top" class="">TOP</button>
+  </div>  
+
+  <!-- 画像表示モード -->
+  <div class="image-view-toggle">
+    <button data-image-view="thumb" class="is-active">Thumbnail</button>
+    <button data-image-view="scroll">Scroll</button>
+    <button data-image-view="full">Full</button>
+  </div>
+
+  <!-- タグ一覧 -->
+  <div id="tag-area" class="tag-area"></div>
+
+  <!-- 選択中タグ -->
+  <div id="selected-tags" class="selected-tags"></div>
+</header>
+
+<main>
+  <div id="gallery" class="gallery"></div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

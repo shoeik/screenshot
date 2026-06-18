@@ -1,0 +1,562 @@
+{
+  "https://mmslaw.jp/": {
+    "meta": {
+      "url": "https://mmslaw.jp/",
+      "domain": "mmslaw_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-18T10:29:52.322Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/top/mmslaw_jp_top_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/top/mmslaw_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/",
+      "domain": "mmslaw_jp",
+      "slug": "info",
+      "path": "/info/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:35:52.480Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info/mmslaw_jp_info_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info/mmslaw_jp_info_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/who_we_are/": {
+    "meta": {
+      "url": "https://mmslaw.jp/who_we_are/",
+      "domain": "mmslaw_jp",
+      "slug": "who_we_are",
+      "path": "/who_we_are/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:36:10.903Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/who_we_are/mmslaw_jp_who_we_are_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/who_we_are/mmslaw_jp_who_we_are_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/lawyer_introduction/": {
+    "meta": {
+      "url": "https://mmslaw.jp/lawyer_introduction/",
+      "domain": "mmslaw_jp",
+      "slug": "lawyer_introduction",
+      "path": "/lawyer_introduction/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:36:30.840Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/lawyer_introduction/mmslaw_jp_lawyer_introduction_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/lawyer_introduction/mmslaw_jp_lawyer_introduction_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/practice_areas/": {
+    "meta": {
+      "url": "https://mmslaw.jp/practice_areas/",
+      "domain": "mmslaw_jp",
+      "slug": "practice_areas",
+      "path": "/practice_areas/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:36:49.510Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/practice_areas/mmslaw_jp_practice_areas_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/practice_areas/mmslaw_jp_practice_areas_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/price_lists/": {
+    "meta": {
+      "url": "https://mmslaw.jp/price_lists/",
+      "domain": "mmslaw_jp",
+      "slug": "price_lists",
+      "path": "/price_lists/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:37:08.202Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/price_lists/mmslaw_jp_price_lists_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/price_lists/mmslaw_jp_price_lists_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/flow/": {
+    "meta": {
+      "url": "https://mmslaw.jp/flow/",
+      "domain": "mmslaw_jp",
+      "slug": "flow",
+      "path": "/flow/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:37:26.692Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/flow/mmslaw_jp_flow_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/flow/mmslaw_jp_flow_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/access/": {
+    "meta": {
+      "url": "https://mmslaw.jp/access/",
+      "domain": "mmslaw_jp",
+      "slug": "access",
+      "path": "/access/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:37:45.566Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/access/mmslaw_jp_access_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/access/mmslaw_jp_access_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/contact/": {
+    "meta": {
+      "url": "https://mmslaw.jp/contact/",
+      "domain": "mmslaw_jp",
+      "slug": "contact",
+      "path": "/contact/",
+      "depth": 1,
+      "capturedAt": "2025-12-25T00:38:03.896Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/contact/mmslaw_jp_contact_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/contact/mmslaw_jp_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/recruit/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/recruit/",
+      "domain": "mmslaw_jp",
+      "slug": "info_recruit",
+      "path": "/info/recruit/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:38:22.704Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_recruit/mmslaw_jp_info_recruit_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_recruit/mmslaw_jp_info_recruit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/recruit_secretariat/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/recruit_secretariat/",
+      "domain": "mmslaw_jp",
+      "slug": "info_recruit_secretariat",
+      "path": "/info/recruit_secretariat/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:38:41.588Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_recruit_secretariat/mmslaw_jp_info_recruit_secretariat_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_recruit_secretariat/mmslaw_jp_info_recruit_secretariat_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/807/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/807/",
+      "domain": "mmslaw_jp",
+      "slug": "info_807",
+      "path": "/info/807/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:39:00.324Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_807/mmslaw_jp_info_807_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_807/mmslaw_jp_info_807_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/797/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/797/",
+      "domain": "mmslaw_jp",
+      "slug": "info_797",
+      "path": "/info/797/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:39:19.222Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_797/mmslaw_jp_info_797_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_797/mmslaw_jp_info_797_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/774/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/774/",
+      "domain": "mmslaw_jp",
+      "slug": "info_774",
+      "path": "/info/774/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:39:38.082Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_774/mmslaw_jp_info_774_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_774/mmslaw_jp_info_774_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/763/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/763/",
+      "domain": "mmslaw_jp",
+      "slug": "info_763",
+      "path": "/info/763/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:39:56.910Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_763/mmslaw_jp_info_763_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_763/mmslaw_jp_info_763_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://mmslaw.jp/info/749/": {
+    "meta": {
+      "url": "https://mmslaw.jp/info/749/",
+      "domain": "mmslaw_jp",
+      "slug": "info_749",
+      "path": "/info/749/",
+      "depth": 2,
+      "capturedAt": "2025-12-25T00:40:16.017Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mmslaw_jp/info_749/mmslaw_jp_info_749_pc.webp",
+        "sp": "../screenshots/mmslaw_jp/info_749/mmslaw_jp_info_749_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

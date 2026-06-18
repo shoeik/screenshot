@@ -1,0 +1,26 @@
+[
+  {
+    "id": "corp_akatsuki-sc_com",
+    "json": "screenshots_db/corp_akatsuki-sc_com.json"
+  },
+  {
+    "id": "hikarina_co_jp",
+    "json": "screenshots_db/hikarina_co_jp.json"
+  },
+  {
+    "id": "mmslaw_jp",
+    "json": "screenshots_db/mmslaw_jp.json"
+  },
+  {
+    "id": "nyle_co_jp",
+    "json": "screenshots_db/nyle_co_jp.json"
+  },
+  {
+    "id": "solvvy_co_jp",
+    "json": "screenshots_db/solvvy_co_jp.json"
+  },
+  {
+    "id": "www_growin_jp",
+    "json": "screenshots_db/www_growin_jp.json"
+  }
+]

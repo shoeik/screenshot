@@ -1,0 +1,2732 @@
+{
+  "https://solvvy.co.jp/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/",
+      "domain": "solvvy_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2025-12-27T14:22:03.145Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/top/solvvy_co_jp_top_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/top/solvvy_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/",
+      "domain": "solvvy_co_jp",
+      "slug": "business",
+      "path": "/business/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:22:24.743Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business/solvvy_co_jp_business_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business/solvvy_co_jp_business_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/strength/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/strength/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_strength",
+      "path": "/business/strength/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:22:45.592Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_strength/solvvy_co_jp_business_strength_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_strength/solvvy_co_jp_business_strength_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service",
+      "path": "/business/service/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:23:07.656Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service/solvvy_co_jp_business_service_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service/solvvy_co_jp_business_service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/casestudy/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/casestudy/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_casestudy",
+      "path": "/business/casestudy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:23:34.762Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_casestudy/solvvy_co_jp_business_casestudy_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_casestudy/solvvy_co_jp_business_casestudy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/faq/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/faq/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_faq",
+      "path": "/business/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:23:56.483Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_faq/solvvy_co_jp_business_faq_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_faq/solvvy_co_jp_business_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/client/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/client/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_client",
+      "path": "/business/client/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:24:18.458Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_client/solvvy_co_jp_business_client_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_client/solvvy_co_jp_business_client_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/request/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/request/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_request",
+      "path": "/business/request/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:24:41.395Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_request/solvvy_co_jp_business_request_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_request/solvvy_co_jp_business_request_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/customer/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/customer/",
+      "domain": "solvvy_co_jp",
+      "slug": "customer",
+      "path": "/customer/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:25:02.490Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/customer/solvvy_co_jp_customer_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/customer/solvvy_co_jp_customer_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/customer/support/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/customer/support/",
+      "domain": "solvvy_co_jp",
+      "slug": "customer_support",
+      "path": "/customer/support/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:25:29.199Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/customer_support/solvvy_co_jp_customer_support_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/customer_support/solvvy_co_jp_customer_support_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/customer/faq/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/customer/faq/",
+      "domain": "solvvy_co_jp",
+      "slug": "customer_faq",
+      "path": "/customer/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:25:50.176Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/customer_faq/solvvy_co_jp_customer_faq_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/customer_faq/solvvy_co_jp_customer_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir",
+      "path": "/ir/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:26:10.746Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir/solvvy_co_jp_ir_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir/solvvy_co_jp_ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/message/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/message/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_message",
+      "path": "/ir/message/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:26:31.925Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_message/solvvy_co_jp_ir_message_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_message/solvvy_co_jp_ir_message_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/news/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/news/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_news",
+      "path": "/ir/news/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:26:52.926Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_news/solvvy_co_jp_ir_news_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_news/solvvy_co_jp_ir_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/library/report/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/library/report/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_library_report",
+      "path": "/ir/library/report/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:27:13.659Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_library_report/solvvy_co_jp_ir_library_report_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_library_report/solvvy_co_jp_ir_library_report_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/library/securities/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/library/securities/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_library_securities",
+      "path": "/ir/library/securities/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:27:33.473Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_library_securities/solvvy_co_jp_ir_library_securities_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_library_securities/solvvy_co_jp_ir_library_securities_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/library/presentation/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/library/presentation/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_library_presentation",
+      "path": "/ir/library/presentation/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:27:55.896Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_library_presentation/solvvy_co_jp_ir_library_presentation_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_library_presentation/solvvy_co_jp_ir_library_presentation_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/library/analyst-report/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/library/analyst-report/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_library_analyst-report",
+      "path": "/ir/library/analyst-report/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:28:17.295Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_library_analyst-report/solvvy_co_jp_ir_library_analyst-report_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_library_analyst-report/solvvy_co_jp_ir_library_analyst-report_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/highlight/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/highlight/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_highlight",
+      "path": "/ir/highlight/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:28:40.914Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_highlight/solvvy_co_jp_ir_highlight_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_highlight/solvvy_co_jp_ir_highlight_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/stockinfo/stock/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/stockinfo/stock/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_stockinfo_stock",
+      "path": "/ir/stockinfo/stock/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:29:01.349Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_stockinfo_stock/solvvy_co_jp_ir_stockinfo_stock_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_stockinfo_stock/solvvy_co_jp_ir_stockinfo_stock_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/stockinfo/meeting/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/stockinfo/meeting/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_stockinfo_meeting",
+      "path": "/ir/stockinfo/meeting/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:29:22.659Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_stockinfo_meeting/solvvy_co_jp_ir_stockinfo_meeting_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_stockinfo_meeting/solvvy_co_jp_ir_stockinfo_meeting_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/stockinfo/analyst-coverage/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/stockinfo/analyst-coverage/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_stockinfo_analyst-coverage",
+      "path": "/ir/stockinfo/analyst-coverage/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:29:42.628Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_stockinfo_analyst-coverage/solvvy_co_jp_ir_stockinfo_analyst-coverage_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_stockinfo_analyst-coverage/solvvy_co_jp_ir_stockinfo_analyst-coverage_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/calendar/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/calendar/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_calendar",
+      "path": "/ir/calendar/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:30:03.594Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_calendar/solvvy_co_jp_ir_calendar_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_calendar/solvvy_co_jp_ir_calendar_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/faq/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/faq/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_faq",
+      "path": "/ir/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:30:24.275Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_faq/solvvy_co_jp_ir_faq_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_faq/solvvy_co_jp_ir_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/notice/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/notice/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_notice",
+      "path": "/ir/notice/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:30:45.429Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_notice/solvvy_co_jp_ir_notice_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_notice/solvvy_co_jp_ir_notice_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/policy/disclosurepolicy/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/policy/disclosurepolicy/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_policy_disclosurepolicy",
+      "path": "/ir/policy/disclosurepolicy/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:31:05.952Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_policy_disclosurepolicy/solvvy_co_jp_ir_policy_disclosurepolicy_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_policy_disclosurepolicy/solvvy_co_jp_ir_policy_disclosurepolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/policy/disclaimer/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/policy/disclaimer/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_policy_disclaimer",
+      "path": "/ir/policy/disclaimer/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:31:27.060Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_policy_disclaimer/solvvy_co_jp_ir_policy_disclaimer_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_policy_disclaimer/solvvy_co_jp_ir_policy_disclaimer_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate",
+      "path": "/corporate/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:31:48.047Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate/solvvy_co_jp_corporate_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate/solvvy_co_jp_corporate_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/message/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/message/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_message",
+      "path": "/corporate/message/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:32:09.767Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_message/solvvy_co_jp_corporate_message_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_message/solvvy_co_jp_corporate_message_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/philosophy/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/philosophy/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_philosophy",
+      "path": "/corporate/philosophy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:32:32.790Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_philosophy/solvvy_co_jp_corporate_philosophy_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_philosophy/solvvy_co_jp_corporate_philosophy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/company/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/company/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_company",
+      "path": "/corporate/company/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:32:54.709Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_company/solvvy_co_jp_corporate_company_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_company/solvvy_co_jp_corporate_company_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/business/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/business/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_business",
+      "path": "/corporate/business/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:33:21.363Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_business/solvvy_co_jp_corporate_business_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_business/solvvy_co_jp_corporate_business_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/management/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/management/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_management",
+      "path": "/corporate/management/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:33:47.993Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_management/solvvy_co_jp_corporate_management_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_management/solvvy_co_jp_corporate_management_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/history/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/history/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_history",
+      "path": "/corporate/history/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:34:09.493Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_history/solvvy_co_jp_corporate_history_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_history/solvvy_co_jp_corporate_history_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/governance/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/governance/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_governance",
+      "path": "/corporate/governance/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:34:29.853Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_governance/solvvy_co_jp_corporate_governance_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_governance/solvvy_co_jp_corporate_governance_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/infographic/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/infographic/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_infographic",
+      "path": "/corporate/infographic/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:34:50.572Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_infographic/solvvy_co_jp_corporate_infographic_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_infographic/solvvy_co_jp_corporate_infographic_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/corporate/sustainability/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/corporate/sustainability/",
+      "domain": "solvvy_co_jp",
+      "slug": "corporate_sustainability",
+      "path": "/corporate/sustainability/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:35:12.910Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/corporate_sustainability/solvvy_co_jp_corporate_sustainability_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/corporate_sustainability/solvvy_co_jp_corporate_sustainability_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/news/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/news/",
+      "domain": "solvvy_co_jp",
+      "slug": "news",
+      "path": "/news/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:35:34.454Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/news/solvvy_co_jp_news_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/news/solvvy_co_jp_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/recruit/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/recruit/",
+      "domain": "solvvy_co_jp",
+      "slug": "recruit",
+      "path": "/recruit/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:36:11.810Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/recruit/solvvy_co_jp_recruit_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/recruit/solvvy_co_jp_recruit_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/en/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/en/",
+      "domain": "solvvy_co_jp",
+      "slug": "en",
+      "path": "/en/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:36:36.493Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/en/solvvy_co_jp_en_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/en/solvvy_co_jp_en_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/contact/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/contact/",
+      "domain": "solvvy_co_jp",
+      "slug": "contact",
+      "path": "/contact/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:36:57.183Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/contact/solvvy_co_jp_contact_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/contact/solvvy_co_jp_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/brand/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/brand/",
+      "domain": "solvvy_co_jp",
+      "slug": "brand",
+      "path": "/brand/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:37:24.207Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/brand/solvvy_co_jp_brand_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/brand/solvvy_co_jp_brand_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/ir/library/business-plan/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/ir/library/business-plan/",
+      "domain": "solvvy_co_jp",
+      "slug": "ir_library_business-plan",
+      "path": "/ir/library/business-plan/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:37:45.605Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/ir_library_business-plan/solvvy_co_jp_ir_library_business-plan_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/ir_library_business-plan/solvvy_co_jp_ir_library_business-plan_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/contact/business/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/contact/business/",
+      "domain": "solvvy_co_jp",
+      "slug": "contact_business",
+      "path": "/contact/business/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:38:08.276Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/contact_business/solvvy_co_jp_contact_business_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/contact_business/solvvy_co_jp_contact_business_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/contact/customer/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/contact/customer/",
+      "domain": "solvvy_co_jp",
+      "slug": "contact_customer",
+      "path": "/contact/customer/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:38:30.426Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/contact_customer/solvvy_co_jp_contact_customer_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/contact_customer/solvvy_co_jp_contact_customer_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/contact/ir/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/contact/ir/",
+      "domain": "solvvy_co_jp",
+      "slug": "contact_ir",
+      "path": "/contact/ir/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:38:50.859Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/contact_ir/solvvy_co_jp_contact_ir_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/contact_ir/solvvy_co_jp_contact_ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/contact/corporate/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/contact/corporate/",
+      "domain": "solvvy_co_jp",
+      "slug": "contact_corporate",
+      "path": "/contact/corporate/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:39:12.904Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/contact_corporate/solvvy_co_jp_contact_corporate_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/contact_corporate/solvvy_co_jp_contact_corporate_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/news/20251128/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/news/20251128/",
+      "domain": "solvvy_co_jp",
+      "slug": "news_20251128",
+      "path": "/news/20251128/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:39:35.398Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/news_20251128/solvvy_co_jp_news_20251128_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/news_20251128/solvvy_co_jp_news_20251128_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/news/20251126/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/news/20251126/",
+      "domain": "solvvy_co_jp",
+      "slug": "news_20251126",
+      "path": "/news/20251126/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:39:56.039Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/news_20251126/solvvy_co_jp_news_20251126_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/news_20251126/solvvy_co_jp_news_20251126_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/news/20251104-2/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/news/20251104-2/",
+      "domain": "solvvy_co_jp",
+      "slug": "news_20251104-2",
+      "path": "/news/20251104-2/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:40:17.483Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/news_20251104-2/solvvy_co_jp_news_20251104-2_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/news_20251104-2/solvvy_co_jp_news_20251104-2_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/building/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/building/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_building",
+      "path": "/business/service/building/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:40:41.372Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_building/solvvy_co_jp_business_service_building_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_building/solvvy_co_jp_business_service_building_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/ground/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/ground/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_ground",
+      "path": "/business/service/ground/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:41:03.093Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_ground/solvvy_co_jp_business_service_ground_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_ground/solvvy_co_jp_business_service_ground_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/earthquake/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/earthquake/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_earthquake",
+      "path": "/business/service/earthquake/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:41:24.228Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_earthquake/solvvy_co_jp_business_service_earthquake_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_earthquake/solvvy_co_jp_business_service_earthquake_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/housing-equipment/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/housing-equipment/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_housing-equipment",
+      "path": "/business/service/housing-equipment/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:41:45.337Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_housing-equipment/solvvy_co_jp_business_service_housing-equipment_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_housing-equipment/solvvy_co_jp_business_service_housing-equipment_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/second-hand-housing/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/second-hand-housing/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_second-hand-housing",
+      "path": "/business/service/second-hand-housing/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:42:07.348Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_second-hand-housing/solvvy_co_jp_business_service_second-hand-housing_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_second-hand-housing/solvvy_co_jp_business_service_second-hand-housing_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/inspection-repair/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/inspection-repair/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_inspection-repair",
+      "path": "/business/service/inspection-repair/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:42:28.691Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_inspection-repair/solvvy_co_jp_business_service_inspection-repair_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_inspection-repair/solvvy_co_jp_business_service_inspection-repair_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/contact-center/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/contact-center/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_contact-center",
+      "path": "/business/service/contact-center/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:42:52.121Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_contact-center/solvvy_co_jp_business_service_contact-center_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_contact-center/solvvy_co_jp_business_service_contact-center_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/solar-power-system/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/solar-power-system/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_solar-power-system",
+      "path": "/business/service/solar-power-system/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:43:14.382Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_solar-power-system/solvvy_co_jp_business_service_solar-power-system_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_solar-power-system/solvvy_co_jp_business_service_solar-power-system_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/ev-charger/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/ev-charger/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_ev-charger",
+      "path": "/business/service/ev-charger/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:43:36.610Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_ev-charger/solvvy_co_jp_business_service_ev-charger_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_ev-charger/solvvy_co_jp_business_service_ev-charger_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/ess-warranty-system/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/ess-warranty-system/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_ess-warranty-system",
+      "path": "/business/service/ess-warranty-system/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:43:59.225Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_ess-warranty-system/solvvy_co_jp_business_service_ess-warranty-system_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_ess-warranty-system/solvvy_co_jp_business_service_ess-warranty-system_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/giga-tablet/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/giga-tablet/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_giga-tablet",
+      "path": "/business/service/giga-tablet/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:44:20.398Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_giga-tablet/solvvy_co_jp_business_service_giga-tablet_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_giga-tablet/solvvy_co_jp_business_service_giga-tablet_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/braintech/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/braintech/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_braintech",
+      "path": "/business/service/braintech/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:44:42.056Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_braintech/solvvy_co_jp_business_service_braintech_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_braintech/solvvy_co_jp_business_service_braintech_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/system-integration/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/system-integration/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_system-integration",
+      "path": "/business/service/system-integration/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:45:03.790Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_system-integration/solvvy_co_jp_business_service_system-integration_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_system-integration/solvvy_co_jp_business_service_system-integration_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/saas-manager/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/saas-manager/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_saas-manager",
+      "path": "/business/service/saas-manager/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:45:26.482Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_saas-manager/solvvy_co_jp_business_service_saas-manager_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_saas-manager/solvvy_co_jp_business_service_saas-manager_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/saas-bot/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/saas-bot/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_saas-bot",
+      "path": "/business/service/saas-bot/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:45:48.732Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_saas-bot/solvvy_co_jp_business_service_saas-bot_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_saas-bot/solvvy_co_jp_business_service_saas-bot_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/saas-genba-assist/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/saas-genba-assist/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_saas-genba-assist",
+      "path": "/business/service/saas-genba-assist/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:46:11.813Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_saas-genba-assist/solvvy_co_jp_business_service_saas-genba-assist_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_saas-genba-assist/solvvy_co_jp_business_service_saas-genba-assist_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/saas-krox/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/saas-krox/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_saas-krox",
+      "path": "/business/service/saas-krox/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:46:34.713Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_saas-krox/solvvy_co_jp_business_service_saas-krox_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_saas-krox/solvvy_co_jp_business_service_saas-krox_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/service/point/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/service/point/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_service_point",
+      "path": "/business/service/point/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:46:57.238Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_service_point/solvvy_co_jp_business_service_point_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_service_point/solvvy_co_jp_business_service_point_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/policy/privacy/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/policy/privacy/",
+      "domain": "solvvy_co_jp",
+      "slug": "policy_privacy",
+      "path": "/policy/privacy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:47:19.984Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/policy_privacy/solvvy_co_jp_policy_privacy_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/policy_privacy/solvvy_co_jp_policy_privacy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/policy/security/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/policy/security/",
+      "domain": "solvvy_co_jp",
+      "slug": "policy_security",
+      "path": "/policy/security/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:47:41.436Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/policy_security/solvvy_co_jp_policy_security_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/policy_security/solvvy_co_jp_policy_security_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/policy/asfpolicy/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/policy/asfpolicy/",
+      "domain": "solvvy_co_jp",
+      "slug": "policy_asfpolicy",
+      "path": "/policy/asfpolicy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T14:48:03.189Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/policy_asfpolicy/solvvy_co_jp_policy_asfpolicy_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/policy_asfpolicy/solvvy_co_jp_policy_asfpolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/client/dl/jusetsu/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/client/dl/jusetsu/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_client_dl_jusetsu",
+      "path": "/business/client/dl/jusetsu/",
+      "depth": 4,
+      "capturedAt": "2025-12-27T14:48:24.707Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_client_dl_jusetsu/solvvy_co_jp_business_client_dl_jusetsu_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_client_dl_jusetsu/solvvy_co_jp_business_client_dl_jusetsu_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/client/dl/tatemono/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/client/dl/tatemono/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_client_dl_tatemono",
+      "path": "/business/client/dl/tatemono/",
+      "depth": 4,
+      "capturedAt": "2025-12-27T14:48:46.042Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_client_dl_tatemono/solvvy_co_jp_business_client_dl_tatemono_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_client_dl_tatemono/solvvy_co_jp_business_client_dl_tatemono_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/client/dl/aftermize/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/client/dl/aftermize/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_client_dl_aftermize",
+      "path": "/business/client/dl/aftermize/",
+      "depth": 4,
+      "capturedAt": "2025-12-27T14:49:07.316Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_client_dl_aftermize/solvvy_co_jp_business_client_dl_aftermize_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_client_dl_aftermize/solvvy_co_jp_business_client_dl_aftermize_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/casestudy/3/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/casestudy/3/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_casestudy_3",
+      "path": "/business/casestudy/3/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:49:29.949Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_casestudy_3/solvvy_co_jp_business_casestudy_3_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_casestudy_3/solvvy_co_jp_business_casestudy_3_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/casestudy/6/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/casestudy/6/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_casestudy_6",
+      "path": "/business/casestudy/6/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:49:50.955Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_casestudy_6/solvvy_co_jp_business_casestudy_6_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_casestudy_6/solvvy_co_jp_business_casestudy_6_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/business/casestudy/2/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/business/casestudy/2/",
+      "domain": "solvvy_co_jp",
+      "slug": "business_casestudy_2",
+      "path": "/business/casestudy/2/",
+      "depth": 3,
+      "capturedAt": "2025-12-27T14:50:13.810Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/business_casestudy_2/solvvy_co_jp_business_casestudy_2_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/business_casestudy_2/solvvy_co_jp_business_casestudy_2_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://solvvy.co.jp/404-notfound/": {
+    "meta": {
+      "url": "https://solvvy.co.jp/404-notfound/",
+      "domain": "solvvy_co_jp",
+      "slug": "404-notfound",
+      "path": "/404-notfound/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T14:50:35.232Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/solvvy_co_jp/404-notfound/solvvy_co_jp_404-notfound_pc.webp",
+        "sp": "../screenshots/solvvy_co_jp/404-notfound/solvvy_co_jp_404-notfound_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

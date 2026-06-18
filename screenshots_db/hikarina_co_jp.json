@@ -1,0 +1,3715 @@
+{
+  "https://hikarina.co.jp/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/",
+      "domain": "hikarina_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2025-12-29T05:58:34.943Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/top/hikarina_co_jp_top_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/top/hikarina_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": [
+      "test",
+      "portfolio site"
+    ]
+  },
+  "https://hikarina.co.jp/service/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/",
+      "domain": "hikarina_co_jp",
+      "slug": "service",
+      "path": "/service/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:58:57.272Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service/hikarina_co_jp_service_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service/hikarina_co_jp_service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/",
+      "domain": "hikarina_co_jp",
+      "slug": "works",
+      "path": "/works/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:59:21.161Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works/hikarina_co_jp_works_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works/hikarina_co_jp_works_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/",
+      "domain": "hikarina_co_jp",
+      "slug": "about",
+      "path": "/about/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:59:40.950Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about/hikarina_co_jp_about_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about/hikarina_co_jp_about_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/topics/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/topics/",
+      "domain": "hikarina_co_jp",
+      "slug": "topics",
+      "path": "/topics/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T05:59:59.828Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/topics/hikarina_co_jp_topics_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/topics/hikarina_co_jp_topics_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog",
+      "path": "/blog/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T06:00:23.070Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog/hikarina_co_jp_blog_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog/hikarina_co_jp_blog_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/join/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/join/",
+      "domain": "hikarina_co_jp",
+      "slug": "join",
+      "path": "/join/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T06:00:41.796Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/join/hikarina_co_jp_join_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/join/hikarina_co_jp_join_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/faq/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/faq/",
+      "domain": "hikarina_co_jp",
+      "slug": "faq",
+      "path": "/faq/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T06:01:02.642Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/faq/hikarina_co_jp_faq_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/faq/hikarina_co_jp_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/contact/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/contact/",
+      "domain": "hikarina_co_jp",
+      "slug": "contact",
+      "path": "/contact/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T06:01:22.369Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/contact/hikarina_co_jp_contact_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/contact/hikarina_co_jp_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/fintech-solutions/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/fintech-solutions/",
+      "domain": "hikarina_co_jp",
+      "slug": "service_fintech-solutions",
+      "path": "/service/fintech-solutions/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:01:46.318Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_fintech-solutions/hikarina_co_jp_service_fintech-solutions_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_fintech-solutions/hikarina_co_jp_service_fintech-solutions_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/advisoryservices.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/advisoryservices.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_advisoryservices.html",
+      "path": "/service/advisoryservices.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:02:07.276Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_advisoryservices.html/hikarina_co_jp_service_advisoryservices.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_advisoryservices.html/hikarina_co_jp_service_advisoryservices.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_kantan.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_kantan.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_kantan.html",
+      "path": "/works/works_kantan.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:02:28.031Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_kantan.html/hikarina_co_jp_works_works_kantan.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_kantan.html/hikarina_co_jp_works_works_kantan.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_shisannavi.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_shisannavi.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_shisannavi.html",
+      "path": "/works/works_shisannavi.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:02:48.415Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_shisannavi.html/hikarina_co_jp_works_works_shisannavi.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_shisannavi.html/hikarina_co_jp_works_works_shisannavi.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_ssnbappux.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_ssnbappux.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_ssnbappux.html",
+      "path": "/works/works_ssnbappux.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:03:08.768Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_ssnbappux.html/hikarina_co_jp_works_works_ssnbappux.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_ssnbappux.html/hikarina_co_jp_works_works_ssnbappux.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_skol.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_skol.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_skol.html",
+      "path": "/works/works_skol.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:03:30.031Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_skol.html/hikarina_co_jp_works_works_skol.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_skol.html/hikarina_co_jp_works_works_skol.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/ssnb-mortgageloanproject/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/ssnb-mortgageloanproject/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_ssnb-mortgageloanproject",
+      "path": "/blog/ssnb-mortgageloanproject/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:03:58.721Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_ssnb-mortgageloanproject/hikarina_co_jp_blog_ssnb-mortgageloanproject_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_ssnb-mortgageloanproject/hikarina_co_jp_blog_ssnb-mortgageloanproject_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/shimenawabrandstory/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/shimenawabrandstory/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_shimenawabrandstory",
+      "path": "/blog/shimenawabrandstory/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:04:27.663Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_shimenawabrandstory/hikarina_co_jp_blog_shimenawabrandstory_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_shimenawabrandstory/hikarina_co_jp_blog_shimenawabrandstory_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/ssnb_uxproject_in/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/ssnb_uxproject_in/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_ssnb_uxproject_in",
+      "path": "/blog/ssnb_uxproject_in/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:04:55.765Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_ssnb_uxproject_in/hikarina_co_jp_blog_ssnb_uxproject_in_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_ssnb_uxproject_in/hikarina_co_jp_blog_ssnb_uxproject_in_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/uxplan_fin/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/uxplan_fin/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_uxplan_fin",
+      "path": "/blog/uxplan_fin/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:05:23.914Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_uxplan_fin/hikarina_co_jp_blog_uxplan_fin_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_uxplan_fin/hikarina_co_jp_blog_uxplan_fin_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/bankapp_transferui/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/bankapp_transferui/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_bankapp_transferui",
+      "path": "/blog/bankapp_transferui/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:05:47.528Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_bankapp_transferui/hikarina_co_jp_blog_bankapp_transferui_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_bankapp_transferui/hikarina_co_jp_blog_bankapp_transferui_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/blog/advisory-service/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/blog/advisory-service/",
+      "domain": "hikarina_co_jp",
+      "slug": "blog_advisory-service",
+      "path": "/blog/advisory-service/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:06:14.843Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/blog_advisory-service/hikarina_co_jp_blog_advisory-service_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/blog_advisory-service/hikarina_co_jp_blog_advisory-service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/newbusiness.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/newbusiness.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_newbusiness.html",
+      "path": "/service/newbusiness.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:06:34.600Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_newbusiness.html/hikarina_co_jp_service_newbusiness.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_newbusiness.html/hikarina_co_jp_service_newbusiness.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/kaizen.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/kaizen.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_kaizen.html",
+      "path": "/service/kaizen.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:06:53.756Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_kaizen.html/hikarina_co_jp_service_kaizen.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_kaizen.html/hikarina_co_jp_service_kaizen.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/branding.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/branding.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_branding.html",
+      "path": "/service/branding.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:07:14.668Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_branding.html/hikarina_co_jp_service_branding.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_branding.html/hikarina_co_jp_service_branding.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/ux.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/ux.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_ux.html",
+      "path": "/service/ux.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:07:35.817Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_ux.html/hikarina_co_jp_service_ux.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_ux.html/hikarina_co_jp_service_ux.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/service/fintech_option.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/service/fintech_option.html",
+      "domain": "hikarina_co_jp",
+      "slug": "service_fintech_option.html",
+      "path": "/service/fintech_option.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:07:55.557Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/service_fintech_option.html/hikarina_co_jp_service_fintech_option.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/service_fintech_option.html/hikarina_co_jp_service_fintech_option.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio",
+      "path": "/studio/",
+      "depth": 1,
+      "capturedAt": "2025-12-29T06:08:16.581Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio/hikarina_co_jp_studio_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio/hikarina_co_jp_studio_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_fin.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_fin.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_fin.html",
+      "path": "/works/works_fin.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:08:38.788Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_fin.html/hikarina_co_jp_works_works_fin.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_fin.html/hikarina_co_jp_works_works_fin.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_re.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_re.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_re.html",
+      "path": "/works/works_re.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:09:00.064Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_re.html/hikarina_co_jp_works_works_re.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_re.html/hikarina_co_jp_works_works_re.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_emoshicom.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_emoshicom.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_emoshicom.html",
+      "path": "/works/works_emoshicom.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:09:22.159Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_emoshicom.html/hikarina_co_jp_works_works_emoshicom.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_emoshicom.html/hikarina_co_jp_works_works_emoshicom.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_shimenawaapp.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_shimenawaapp.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_shimenawaapp.html",
+      "path": "/works/works_shimenawaapp.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:09:43.982Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_shimenawaapp.html/hikarina_co_jp_works_works_shimenawaapp.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_shimenawaapp.html/hikarina_co_jp_works_works_shimenawaapp.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_nwf.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_nwf.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_nwf.html",
+      "path": "/works/works_nwf.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:10:05.330Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_nwf.html/hikarina_co_jp_works_works_nwf.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_nwf.html/hikarina_co_jp_works_works_nwf.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sumishin_illust.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sumishin_illust.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sumishin_illust.html",
+      "path": "/works/works_sumishin_illust.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:10:27.044Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sumishin_illust.html/hikarina_co_jp_works_works_sumishin_illust.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sumishin_illust.html/hikarina_co_jp_works_works_sumishin_illust.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbifx.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbifx.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbifx.html",
+      "path": "/works/works_sbifx.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:10:48.388Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbifx.html/hikarina_co_jp_works_works_sbifx.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbifx.html/hikarina_co_jp_works_works_sbifx.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_bankers.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_bankers.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_bankers.html",
+      "path": "/works/works_bankers.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:11:10.235Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_bankers.html/hikarina_co_jp_works_works_bankers.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_bankers.html/hikarina_co_jp_works_works_bankers.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_72invalance_contents.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_72invalance_contents.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_72invalance_contents.html",
+      "path": "/works/works_72invalance_contents.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:11:30.883Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_72invalance_contents.html/hikarina_co_jp_works_works_72invalance_contents.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_72invalance_contents.html/hikarina_co_jp_works_works_72invalance_contents.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_72invalance.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_72invalance.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_72invalance.html",
+      "path": "/works/works_72invalance.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:11:52.396Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_72invalance.html/hikarina_co_jp_works_works_72invalance.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_72invalance.html/hikarina_co_jp_works_works_72invalance.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_72crowd.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_72crowd.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_72crowd.html",
+      "path": "/works/works_72crowd.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:12:13.683Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_72crowd.html/hikarina_co_jp_works_works_72crowd.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_72crowd.html/hikarina_co_jp_works_works_72crowd.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_holon.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_holon.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_holon.html",
+      "path": "/works/works_holon.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:12:34.881Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_holon.html/hikarina_co_jp_works_works_holon.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_holon.html/hikarina_co_jp_works_works_holon.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_pros.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_pros.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_pros.html",
+      "path": "/works/works_pros.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:12:57.287Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_pros.html/hikarina_co_jp_works_works_pros.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_pros.html/hikarina_co_jp_works_works_pros.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbidebit.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbidebit.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbidebit.html",
+      "path": "/works/works_sbidebit.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:13:17.273Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbidebit.html/hikarina_co_jp_works_works_sbidebit.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbidebit.html/hikarina_co_jp_works_works_sbidebit.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_47hd.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_47hd.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_47hd.html",
+      "path": "/works/works_47hd.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:13:39.242Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_47hd.html/hikarina_co_jp_works_works_47hd.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_47hd.html/hikarina_co_jp_works_works_47hd.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_axseed.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_axseed.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_axseed.html",
+      "path": "/works/works_axseed.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:14:00.934Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_axseed.html/hikarina_co_jp_works_works_axseed.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_axseed.html/hikarina_co_jp_works_works_axseed.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_jwa.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_jwa.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_jwa.html",
+      "path": "/works/works_jwa.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:14:22.398Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_jwa.html/hikarina_co_jp_works_works_jwa.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_jwa.html/hikarina_co_jp_works_works_jwa.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_holder_spot.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_holder_spot.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_holder_spot.html",
+      "path": "/works/works_holder_spot.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:14:43.956Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_holder_spot.html/hikarina_co_jp_works_works_holder_spot.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_holder_spot.html/hikarina_co_jp_works_works_holder_spot.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_holder_corp.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_holder_corp.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_holder_corp.html",
+      "path": "/works/works_holder_corp.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:15:05.415Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_holder_corp.html/hikarina_co_jp_works_works_holder_corp.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_holder_corp.html/hikarina_co_jp_works_works_holder_corp.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_nozaki.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_nozaki.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_nozaki.html",
+      "path": "/works/works_nozaki.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:15:26.702Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_nozaki.html/hikarina_co_jp_works_works_nozaki.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_nozaki.html/hikarina_co_jp_works_works_nozaki.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_synesthesia.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_synesthesia.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_synesthesia.html",
+      "path": "/works/works_synesthesia.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:15:47.025Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_synesthesia.html/hikarina_co_jp_works_works_synesthesia.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_synesthesia.html/hikarina_co_jp_works_works_synesthesia.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_rakuten_summary.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_rakuten_summary.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_rakuten_summary.html",
+      "path": "/works/works_rakuten_summary.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:16:07.213Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_rakuten_summary.html/hikarina_co_jp_works_works_rakuten_summary.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_rakuten_summary.html/hikarina_co_jp_works_works_rakuten_summary.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_fstsuiux.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_fstsuiux.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_fstsuiux.html",
+      "path": "/works/works_fstsuiux.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:16:28.853Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_fstsuiux.html/hikarina_co_jp_works_works_fstsuiux.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_fstsuiux.html/hikarina_co_jp_works_works_fstsuiux.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_partz.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_partz.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_partz.html",
+      "path": "/works/works_partz.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:16:50.248Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_partz.html/hikarina_co_jp_works_works_partz.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_partz.html/hikarina_co_jp_works_works_partz.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_fundportfolio.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_fundportfolio.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_fundportfolio.html",
+      "path": "/works/works_fundportfolio.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:17:11.647Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_fundportfolio.html/hikarina_co_jp_works_works_fundportfolio.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_fundportfolio.html/hikarina_co_jp_works_works_fundportfolio.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_47naiso_works.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_47naiso_works.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_47naiso_works.html",
+      "path": "/works/works_47naiso_works.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:17:31.831Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_47naiso_works.html/hikarina_co_jp_works_works_47naiso_works.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_47naiso_works.html/hikarina_co_jp_works_works_47naiso_works.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_mm.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_mm.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_mm.html",
+      "path": "/works/works_mm.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:17:51.468Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_mm.html/hikarina_co_jp_works_works_mm.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_mm.html/hikarina_co_jp_works_works_mm.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_finux.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_finux.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_finux.html",
+      "path": "/works/works_finux.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:18:11.326Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_finux.html/hikarina_co_jp_works_works_finux.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_finux.html/hikarina_co_jp_works_works_finux.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_mmkgmc.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_mmkgmc.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_mmkgmc.html",
+      "path": "/works/works_mmkgmc.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:18:32.537Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_mmkgmc.html/hikarina_co_jp_works_works_mmkgmc.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_mmkgmc.html/hikarina_co_jp_works_works_mmkgmc.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_suguchoku.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_suguchoku.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_suguchoku.html",
+      "path": "/works/works_suguchoku.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:18:54.466Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_suguchoku.html/hikarina_co_jp_works_works_suguchoku.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_suguchoku.html/hikarina_co_jp_works_works_suguchoku.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sagatsuku.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sagatsuku.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sagatsuku.html",
+      "path": "/works/works_sagatsuku.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:19:14.419Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sagatsuku.html/hikarina_co_jp_works_works_sagatsuku.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sagatsuku.html/hikarina_co_jp_works_works_sagatsuku.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_minmaru.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_minmaru.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_minmaru.html",
+      "path": "/works/works_minmaru.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:19:35.641Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_minmaru.html/hikarina_co_jp_works_works_minmaru.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_minmaru.html/hikarina_co_jp_works_works_minmaru.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbitbcorp.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbitbcorp.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbitbcorp.html",
+      "path": "/works/works_sbitbcorp.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:19:55.583Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbitbcorp.html/hikarina_co_jp_works_works_sbitbcorp.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbitbcorp.html/hikarina_co_jp_works_works_sbitbcorp.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_mochicom.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_mochicom.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_mochicom.html",
+      "path": "/works/works_mochicom.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:20:17.220Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_mochicom.html/hikarina_co_jp_works_works_mochicom.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_mochicom.html/hikarina_co_jp_works_works_mochicom.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbi_summary.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbi_summary.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbi_summary.html",
+      "path": "/works/works_sbi_summary.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:20:39.338Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbi_summary.html/hikarina_co_jp_works_works_sbi_summary.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbi_summary.html/hikarina_co_jp_works_works_sbi_summary.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_startguide.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_startguide.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_startguide.html",
+      "path": "/works/works_startguide.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:20:59.871Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_startguide.html/hikarina_co_jp_works_works_startguide.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_startguide.html/hikarina_co_jp_works_works_startguide.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_ssnb_brand.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_ssnb_brand.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_ssnb_brand.html",
+      "path": "/works/works_ssnb_brand.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:21:20.921Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_ssnb_brand.html/hikarina_co_jp_works_works_ssnb_brand.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_ssnb_brand.html/hikarina_co_jp_works_works_ssnb_brand.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbi2021recruit.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbi2021recruit.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbi2021recruit.html",
+      "path": "/works/works_sbi2021recruit.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:21:41.311Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbi2021recruit.html/hikarina_co_jp_works_works_sbi2021recruit.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbi2021recruit.html/hikarina_co_jp_works_works_sbi2021recruit.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_rakuten_sp.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_rakuten_sp.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_rakuten_sp.html",
+      "path": "/works/works_rakuten_sp.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:22:03.207Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_rakuten_sp.html/hikarina_co_jp_works_works_rakuten_sp.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_rakuten_sp.html/hikarina_co_jp_works_works_rakuten_sp.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_rakuten_catalog.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_rakuten_catalog.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_rakuten_catalog.html",
+      "path": "/works/works_rakuten_catalog.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:22:24.558Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_rakuten_catalog.html/hikarina_co_jp_works_works_rakuten_catalog.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_rakuten_catalog.html/hikarina_co_jp_works_works_rakuten_catalog.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_ifa.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_ifa.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_ifa.html",
+      "path": "/works/works_ifa.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:22:45.763Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_ifa.html/hikarina_co_jp_works_works_ifa.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_ifa.html/hikarina_co_jp_works_works_ifa.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_akatsukisec.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_akatsukisec.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_akatsukisec.html",
+      "path": "/works/works_akatsukisec.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:23:06.096Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_akatsukisec.html/hikarina_co_jp_works_works_akatsukisec.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_akatsukisec.html/hikarina_co_jp_works_works_akatsukisec.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_akatsukirecruit.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_akatsukirecruit.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_akatsukirecruit.html",
+      "path": "/works/works_akatsukirecruit.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:23:28.169Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_akatsukirecruit.html/hikarina_co_jp_works_works_akatsukirecruit.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_akatsukirecruit.html/hikarina_co_jp_works_works_akatsukirecruit.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_kasotsuka_ui.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_kasotsuka_ui.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_kasotsuka_ui.html",
+      "path": "/works/works_kasotsuka_ui.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:23:48.563Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_kasotsuka_ui.html/hikarina_co_jp_works_works_kasotsuka_ui.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_kasotsuka_ui.html/hikarina_co_jp_works_works_kasotsuka_ui.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_am_webhikaku.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_am_webhikaku.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_am_webhikaku.html",
+      "path": "/works/works_am_webhikaku.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:24:07.932Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_am_webhikaku.html/hikarina_co_jp_works_works_am_webhikaku.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_am_webhikaku.html/hikarina_co_jp_works_works_am_webhikaku.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbi_investment.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbi_investment.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbi_investment.html",
+      "path": "/works/works_sbi_investment.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:24:28.955Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbi_investment.html/hikarina_co_jp_works_works_sbi_investment.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbi_investment.html/hikarina_co_jp_works_works_sbi_investment.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbisonpo.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbisonpo.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbisonpo.html",
+      "path": "/works/works_sbisonpo.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:24:49.968Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbisonpo.html/hikarina_co_jp_works_works_sbisonpo.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbisonpo.html/hikarina_co_jp_works_works_sbisonpo.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_ifaportal.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_ifaportal.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_ifaportal.html",
+      "path": "/works/works_ifaportal.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:25:09.866Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_ifaportal.html/hikarina_co_jp_works_works_ifaportal.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_ifaportal.html/hikarina_co_jp_works_works_ifaportal.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_find.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_find.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_find.html",
+      "path": "/works/works_find.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:25:31.096Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_find.html/hikarina_co_jp_works_works_find.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_find.html/hikarina_co_jp_works_works_find.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_moneytap.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_moneytap.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_moneytap.html",
+      "path": "/works/works_moneytap.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:25:52.769Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_moneytap.html/hikarina_co_jp_works_works_moneytap.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_moneytap.html/hikarina_co_jp_works_works_moneytap.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_am_webstrategy.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_am_webstrategy.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_am_webstrategy.html",
+      "path": "/works/works_am_webstrategy.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:26:13.062Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_am_webstrategy.html/hikarina_co_jp_works_works_am_webstrategy.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_am_webstrategy.html/hikarina_co_jp_works_works_am_webstrategy.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_47naiso.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_47naiso.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_47naiso.html",
+      "path": "/works/works_47naiso.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:26:33.531Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_47naiso.html/hikarina_co_jp_works_works_47naiso.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_47naiso.html/hikarina_co_jp_works_works_47naiso.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sw.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sw.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sw.html",
+      "path": "/works/works_sw.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:26:53.779Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sw.html/hikarina_co_jp_works_works_sw.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sw.html/hikarina_co_jp_works_works_sw.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_rideshare.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_rideshare.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_rideshare.html",
+      "path": "/works/works_rideshare.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:27:13.643Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_rideshare.html/hikarina_co_jp_works_works_rideshare.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_rideshare.html/hikarina_co_jp_works_works_rideshare.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_ew.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_ew.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_ew.html",
+      "path": "/works/works_ew.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:27:34.955Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_ew.html/hikarina_co_jp_works_works_ew.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_ew.html/hikarina_co_jp_works_works_ew.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_car_pdca.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_car_pdca.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_car_pdca.html",
+      "path": "/works/works_car_pdca.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:27:55.022Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_car_pdca.html/hikarina_co_jp_works_works_car_pdca.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_car_pdca.html/hikarina_co_jp_works_works_car_pdca.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_sbikouzakaisetsu.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_sbikouzakaisetsu.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_sbikouzakaisetsu.html",
+      "path": "/works/works_sbikouzakaisetsu.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:28:15.275Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_sbikouzakaisetsu.html/hikarina_co_jp_works_works_sbikouzakaisetsu.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_sbikouzakaisetsu.html/hikarina_co_jp_works_works_sbikouzakaisetsu.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_tripyoyaku.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_tripyoyaku.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_tripyoyaku.html",
+      "path": "/works/works_tripyoyaku.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:28:34.513Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_tripyoyaku.html/hikarina_co_jp_works_works_tripyoyaku.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_tripyoyaku.html/hikarina_co_jp_works_works_tripyoyaku.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_an.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_an.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_an.html",
+      "path": "/works/works_an.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:28:54.661Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_an.html/hikarina_co_jp_works_works_an.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_an.html/hikarina_co_jp_works_works_an.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/about_otsuka.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/about_otsuka.html",
+      "domain": "hikarina_co_jp",
+      "slug": "about_about_otsuka.html",
+      "path": "/about/about_otsuka.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:29:13.251Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about_about_otsuka.html/hikarina_co_jp_about_about_otsuka.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about_about_otsuka.html/hikarina_co_jp_about_about_otsuka.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/about_hattori.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/about_hattori.html",
+      "domain": "hikarina_co_jp",
+      "slug": "about_about_hattori.html",
+      "path": "/about/about_hattori.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:29:31.540Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about_about_hattori.html/hikarina_co_jp_about_about_hattori.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about_about_hattori.html/hikarina_co_jp_about_about_hattori.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/works/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/works/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_works",
+      "path": "/studio/works/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:29:50.616Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_works/hikarina_co_jp_studio_works_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_works/hikarina_co_jp_studio_works_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/service/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/service/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_service",
+      "path": "/studio/service/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:30:09.780Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_service/hikarina_co_jp_studio_service_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_service/hikarina_co_jp_studio_service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge",
+      "path": "/studio/knowledge/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:30:28.425Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge/hikarina_co_jp_studio_knowledge_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge/hikarina_co_jp_studio_knowledge_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/faq/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/faq/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_faq",
+      "path": "/studio/faq/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:30:47.244Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_faq/hikarina_co_jp_studio_faq_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_faq/hikarina_co_jp_studio_faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/about/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/about/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_about",
+      "path": "/studio/about/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:31:06.108Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_about/hikarina_co_jp_studio_about_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_about/hikarina_co_jp_studio_about_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/template/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/template/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_template",
+      "path": "/studio/template/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:31:24.880Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_template/hikarina_co_jp_studio_template_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_template/hikarina_co_jp_studio_template_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/contact01/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/contact01/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_contact01",
+      "path": "/studio/contact01/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:31:46.165Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_contact01/hikarina_co_jp_studio_contact01_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_contact01/hikarina_co_jp_studio_contact01_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/contact02/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/contact02/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_contact02",
+      "path": "/studio/contact02/",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:32:07.043Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_contact02/hikarina_co_jp_studio_contact02_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_contact02/hikarina_co_jp_studio_contact02_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/finance-case/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/finance-case/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_finance-case",
+      "path": "/studio/knowledge/finance-case/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T06:32:26.227Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_finance-case/hikarina_co_jp_studio_knowledge_finance-case_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_finance-case/hikarina_co_jp_studio_knowledge_finance-case_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/studio-accessibility/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/studio-accessibility/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_studio-accessibility",
+      "path": "/studio/knowledge/studio-accessibility/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T06:32:45.179Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_studio-accessibility/hikarina_co_jp_studio_knowledge_studio-accessibility_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_studio-accessibility/hikarina_co_jp_studio_knowledge_studio-accessibility_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/studio-realestate/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/studio-realestate/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_studio-realestate",
+      "path": "/studio/knowledge/studio-realestate/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T06:33:06.206Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_studio-realestate/hikarina_co_jp_studio_knowledge_studio-realestate_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_studio-realestate/hikarina_co_jp_studio_knowledge_studio-realestate_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/studio01/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/studio01/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_studio01",
+      "path": "/studio/knowledge/studio01/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T06:33:26.003Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_studio01/hikarina_co_jp_studio_knowledge_studio01_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_studio01/hikarina_co_jp_studio_knowledge_studio01_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/studio-faq/": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/studio-faq/",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_studio-faq",
+      "path": "/studio/knowledge/studio-faq/",
+      "depth": 3,
+      "capturedAt": "2025-12-29T06:33:44.992Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_studio-faq/hikarina_co_jp_studio_knowledge_studio-faq_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_studio-faq/hikarina_co_jp_studio_knowledge_studio-faq_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/about_hattori_social_interior.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/about_hattori_social_interior.html",
+      "domain": "hikarina_co_jp",
+      "slug": "about_about_hattori_social_interior.html",
+      "path": "/about/about_hattori_social_interior.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:34:06.014Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about_about_hattori_social_interior.html/hikarina_co_jp_about_about_hattori_social_interior.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about_about_hattori_social_interior.html/hikarina_co_jp_about_about_hattori_social_interior.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/about_hattori_derucap.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/about_hattori_derucap.html",
+      "domain": "hikarina_co_jp",
+      "slug": "about_about_hattori_derucap.html",
+      "path": "/about/about_hattori_derucap.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:34:32.024Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about_about_hattori_derucap.html/hikarina_co_jp_about_about_hattori_derucap.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about_about_hattori_derucap.html/hikarina_co_jp_about_about_hattori_derucap.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/about/about_hattori_tokyoblues.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/about/about_hattori_tokyoblues.html",
+      "domain": "hikarina_co_jp",
+      "slug": "about_about_hattori_tokyoblues.html",
+      "path": "/about/about_hattori_tokyoblues.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:34:52.817Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/about_about_hattori_tokyoblues.html/hikarina_co_jp_about_about_hattori_tokyoblues.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/about_about_hattori_tokyoblues.html/hikarina_co_jp_about_about_hattori_tokyoblues.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/studio/knowledge/studio01/XXX": {
+    "meta": {
+      "url": "https://hikarina.co.jp/studio/knowledge/studio01/XXX",
+      "domain": "hikarina_co_jp",
+      "slug": "studio_knowledge_studio01_XXX",
+      "path": "/studio/knowledge/studio01/XXX",
+      "depth": 4,
+      "capturedAt": "2025-12-29T06:35:13.536Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/studio_knowledge_studio01_XXX/hikarina_co_jp_studio_knowledge_studio01_XXX_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/studio_knowledge_studio01_XXX/hikarina_co_jp_studio_knowledge_studio01_XXX_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://hikarina.co.jp/works/works_tokyoblues.html": {
+    "meta": {
+      "url": "https://hikarina.co.jp/works/works_tokyoblues.html",
+      "domain": "hikarina_co_jp",
+      "slug": "works_works_tokyoblues.html",
+      "path": "/works/works_tokyoblues.html",
+      "depth": 2,
+      "capturedAt": "2025-12-29T06:35:34.744Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/hikarina_co_jp/works_works_tokyoblues.html/hikarina_co_jp_works_works_tokyoblues.html_pc.webp",
+        "sp": "../screenshots/hikarina_co_jp/works_works_tokyoblues.html/hikarina_co_jp_works_works_tokyoblues.html_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

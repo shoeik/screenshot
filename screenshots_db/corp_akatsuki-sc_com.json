@@ -1,0 +1,637 @@
+{
+  "https://corp.akatsuki-sc.com/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2025-12-27T11:28:44.186Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/top/corp_akatsuki-sc_com_top_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/top/corp_akatsuki-sc_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/aboutus/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/aboutus/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "aboutus",
+      "path": "/aboutus/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:29:02.631Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/aboutus/corp_akatsuki-sc_com_aboutus_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/aboutus/corp_akatsuki-sc_com_aboutus_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/service/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/service/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "service",
+      "path": "/service/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:29:21.638Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/service/corp_akatsuki-sc_com_service_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/service/corp_akatsuki-sc_com_service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/company/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/company/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "company",
+      "path": "/company/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:29:40.965Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/company/corp_akatsuki-sc_com_company_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/company/corp_akatsuki-sc_com_company_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/company/statement/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/company/statement/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "company_statement",
+      "path": "/company/statement/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:30:00.048Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/company_statement/corp_akatsuki-sc_com_company_statement_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/company_statement/corp_akatsuki-sc_com_company_statement_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/company/public_notice/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/company/public_notice/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "company_public_notice",
+      "path": "/company/public_notice/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:30:18.938Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/company_public_notice/corp_akatsuki-sc_com_company_public_notice_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/company_public_notice/corp_akatsuki-sc_com_company_public_notice_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news",
+      "path": "/news/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:30:38.531Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news/corp_akatsuki-sc_com_news_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news/corp_akatsuki-sc_com_news_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/service/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/service/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_service",
+      "path": "/news/service/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:30:57.884Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_service/corp_akatsuki-sc_com_news_service_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_service/corp_akatsuki-sc_com_news_service_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/ir/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/ir/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_ir",
+      "path": "/news/ir/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:31:19.528Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_ir/corp_akatsuki-sc_com_news_ir_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_ir/corp_akatsuki-sc_com_news_ir_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/media/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/media/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_media",
+      "path": "/news/media/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:31:39.150Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_media/corp_akatsuki-sc_com_news_media_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_media/corp_akatsuki-sc_com_news_media_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/1414/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/1414/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_1414",
+      "path": "/news/1414/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:31:58.349Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_1414/corp_akatsuki-sc_com_news_1414_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_1414/corp_akatsuki-sc_com_news_1414_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/1411/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/1411/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_1411",
+      "path": "/news/1411/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:32:17.456Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_1411/corp_akatsuki-sc_com_news_1411_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_1411/corp_akatsuki-sc_com_news_1411_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/news/1409/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/news/1409/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "news_1409",
+      "path": "/news/1409/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:32:37.270Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/news_1409/corp_akatsuki-sc_com_news_1409_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/news_1409/corp_akatsuki-sc_com_news_1409_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/compliance/privacy/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/compliance/privacy/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "compliance_privacy",
+      "path": "/compliance/privacy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:32:56.715Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/compliance_privacy/corp_akatsuki-sc_com_compliance_privacy_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/compliance_privacy/corp_akatsuki-sc_com_compliance_privacy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/compliance/sitepolicy/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/compliance/sitepolicy/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "compliance_sitepolicy",
+      "path": "/compliance/sitepolicy/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:33:14.841Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/compliance_sitepolicy/corp_akatsuki-sc_com_compliance_sitepolicy_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/compliance_sitepolicy/corp_akatsuki-sc_com_compliance_sitepolicy_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/contact/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/contact/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "contact",
+      "path": "/contact/",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:33:33.447Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/contact/corp_akatsuki-sc_com_contact_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/contact/corp_akatsuki-sc_com_contact_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/compliance/outsourcing/": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/compliance/outsourcing/",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "compliance_outsourcing",
+      "path": "/compliance/outsourcing/",
+      "depth": 2,
+      "capturedAt": "2025-12-27T11:33:52.966Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/compliance_outsourcing/corp_akatsuki-sc_com_compliance_outsourcing_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/compliance_outsourcing/corp_akatsuki-sc_com_compliance_outsourcing_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "https://corp.akatsuki-sc.com/404": {
+    "meta": {
+      "url": "https://corp.akatsuki-sc.com/404",
+      "domain": "corp_akatsuki-sc_com",
+      "slug": "404",
+      "path": "/404",
+      "depth": 1,
+      "capturedAt": "2025-12-27T11:34:12.382Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_akatsuki-sc_com/404/corp_akatsuki-sc_com_404_pc.webp",
+        "sp": "../screenshots/corp_akatsuki-sc_com/404/corp_akatsuki-sc_com_404_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": [
+      "corprate site"
+    ]
+  }
+}

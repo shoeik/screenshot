@@ -1,0 +1,53 @@
+
+
+<!-- app_ver1と対応 -->
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>Screenshot Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <h1>Screenshot Gallery</h1>
+
+    <div class="controls">
+      <input id="search" type="text" placeholder="検索（タイトル・URL・タグ）">
+
+      <select id="filter-category">
+        <option value="">カテゴリ</option>
+      </select>
+
+      <select id="filter-industry">
+        <option value="">業界</option>
+      </select>
+
+      <select id="filter-siteType">
+		<option value="">サイトタイプ</option>
+      </select>
+
+
+      <select id="sort">
+        <option value="date_desc">新着順</option>
+        <option value="date_asc">古い順</option>
+        <option value="site_asc">サイト名（A→Z）</option>
+      </select>
+    </div>
+
+    <!-- <div id="tag-area" class="tag-area"></div> -->
+
+	<div id="selected-tags" class="selected-tags"></div>
+
+  </header>
+
+  <main>
+    <div id="gallery" class="gallery"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

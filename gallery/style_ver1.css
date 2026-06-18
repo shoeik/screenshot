@@ -1,0 +1,85 @@
+body {
+  font-family: "Inter", sans-serif;
+  background: #f5f5f7;
+  margin: 0;
+  padding: 20px;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tag-area {
+  margin: 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tag {
+  padding: 4px 10px;
+  background: #e3e3ff;
+  border-radius: 16px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.selected-tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin: 12px 0;
+}
+
+.selected-tag {
+  background: #d8e9ff;
+  padding: 4px 10px;
+  border-radius: 14px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.selected-tag .close {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.gallery {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.item {
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  transition: transform 0.2s;
+}
+
+.item:hover {
+  transform: translateY(-4px);
+}
+
+.item img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.url {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #666;
+  word-break: break-all;
+}
