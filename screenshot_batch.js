@@ -14,6 +14,7 @@ const SCROLL_INTERVAL = 120;
 const LAZYLOAD_MAX_TIME = 8000;
 const IMAGE_WAIT_TIMEOUT = 5000;
 const PAGE_LOAD_TIMEOUT = 30000;
+const PAGE_LOAD_FALLBACK_TIMEOUT = 15000;
 
 const SITEMAP_FILE = process.argv[2];
 if (!SITEMAP_FILE) {
@@ -55,6 +56,60 @@ function wait(milliseconds) {
 
 function isTopPage({ slug, pathname, depth }) {
 	return slug === "top" || pathname === "/" || depth === 0;
+}
+
+async function hasUsableDom(page) {
+	try {
+		return await page.evaluate(() => {
+			const body = document.body;
+			if (!body || body.childElementCount === 0) {
+				return false;
+			}
+
+			const hasText = (body.innerText || "").trim().length > 20;
+			const hasVisualContent = Boolean(
+				body.querySelector(
+					"main, section, article, header, footer, h1, img, picture, video, canvas, svg"
+				)
+			);
+
+			return hasText || hasVisualContent;
+		});
+	} catch {
+		return false;
+	}
+}
+
+async function gotoWithFallback(page, url) {
+	try {
+		await page.goto(url, {
+			waitUntil: "domcontentloaded",
+			timeout: PAGE_LOAD_TIMEOUT
+		});
+		return;
+	} catch (error) {
+		console.log(
+			`   ⚠️ domcontentloaded待機失敗。loadで再試行: ${error.message}`
+		);
+	}
+
+	try {
+		await page.goto(url, {
+			waitUntil: "load",
+			timeout: PAGE_LOAD_FALLBACK_TIMEOUT
+		});
+		console.log("   ✅ load再試行でナビゲーション完了");
+		return;
+	} catch (error) {
+		console.log(`   ⚠️ load再試行も失敗。現在DOMを確認: ${error.message}`);
+	}
+
+	if (await hasUsableDom(page)) {
+		console.log("   ✅ 描画済みDOMを確認したため撮影前処理を継続");
+		return;
+	}
+
+	throw new Error("ナビゲーション失敗後も撮影可能なDOMを確認できませんでした");
 }
 
 async function scrollForLazyLoad(
@@ -187,10 +242,7 @@ async function prepareForScreenshot(page, pageInfo) {
 async function capturePage(page, { url, outputPath, pageInfo }) {
 	await page.bringToFront();
 
-	await page.goto(url, {
-		waitUntil: "networkidle2",
-		timeout: PAGE_LOAD_TIMEOUT
-	});
+	await gotoWithFallback(page, url);
 
 	await prepareForScreenshot(page, pageInfo);
 
