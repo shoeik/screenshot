@@ -1,0 +1,37 @@
+{
+  "https://corp.gree.net/": {
+    "meta": {
+      "url": "https://corp.gree.net/",
+      "domain": "corp_gree_net",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:53:02.354Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_gree_net/top/corp_gree_net_top_pc.webp",
+        "sp": "../screenshots/corp_gree_net/top/corp_gree_net_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

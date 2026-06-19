@@ -1,0 +1,37 @@
+{
+  "https://note.jp/": {
+    "meta": {
+      "url": "https://note.jp/",
+      "domain": "note_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:35:45.811Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/note_jp/top/note_jp_top_pc.webp",
+        "sp": "../screenshots/note_jp/top/note_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "https://crowdworks.co.jp/": {
+    "meta": {
+      "url": "https://crowdworks.co.jp/",
+      "domain": "crowdworks_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:41:54.820Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/crowdworks_co_jp/top/crowdworks_co_jp_top_pc.webp",
+        "sp": "../screenshots/crowdworks_co_jp/top/crowdworks_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

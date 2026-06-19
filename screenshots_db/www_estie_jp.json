@@ -1,0 +1,37 @@
+{
+  "https://www.estie.jp/": {
+    "meta": {
+      "url": "https://www.estie.jp/",
+      "domain": "www_estie_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:42:59.649Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_estie_jp/top/www_estie_jp_top_pc.webp",
+        "sp": "../screenshots/www_estie_jp/top/www_estie_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

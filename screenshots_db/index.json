@@ -1,5 +1,9 @@
 [
   {
+    "id": "about_mercari_com",
+    "json": "screenshots_db/about_mercari_com.json"
+  },
+  {
     "id": "corp_akatsuki-sc_com",
     "json": "screenshots_db/corp_akatsuki-sc_com.json"
   },
@@ -8,16 +12,48 @@
     "json": "screenshots_db/corp_freee_co_jp.json"
   },
   {
+    "id": "corp_gree_net",
+    "json": "screenshots_db/corp_gree_net.json"
+  },
+  {
     "id": "corp_moneyforward_com",
     "json": "screenshots_db/corp_moneyforward_com.json"
+  },
+  {
+    "id": "corp_rakuten_co_jp",
+    "json": "screenshots_db/corp_rakuten_co_jp.json"
+  },
+  {
+    "id": "crowdworks_co_jp",
+    "json": "screenshots_db/crowdworks_co_jp.json"
+  },
+  {
+    "id": "cybozu_co_jp",
+    "json": "screenshots_db/cybozu_co_jp.json"
+  },
+  {
+    "id": "dena_com",
+    "json": "screenshots_db/dena_com.json"
   },
   {
     "id": "goodpatch_com",
     "json": "screenshots_db/goodpatch_com.json"
   },
   {
+    "id": "hey_jp",
+    "json": "screenshots_db/hey_jp.json"
+  },
+  {
     "id": "hikarina_co_jp",
     "json": "screenshots_db/hikarina_co_jp.json"
+  },
+  {
+    "id": "kubell_com",
+    "json": "screenshots_db/kubell_com.json"
+  },
+  {
+    "id": "mixi_co_jp",
+    "json": "screenshots_db/mixi_co_jp.json"
   },
   {
     "id": "mmslaw_jp",
@@ -26,6 +62,10 @@
   {
     "id": "moniclefinancial_co_jp",
     "json": "screenshots_db/moniclefinancial_co_jp.json"
+  },
+  {
+    "id": "note_jp",
+    "json": "screenshots_db/note_jp.json"
   },
   {
     "id": "nyle_co_jp",
@@ -40,12 +80,24 @@
     "json": "screenshots_db/smartcamp_co_jp.json"
   },
   {
+    "id": "smarthr_co_jp",
+    "json": "screenshots_db/smarthr_co_jp.json"
+  },
+  {
     "id": "solvvy_co_jp",
     "json": "screenshots_db/solvvy_co_jp.json"
   },
   {
     "id": "speee_jp",
     "json": "screenshots_db/speee_jp.json"
+  },
+  {
+    "id": "terass_com",
+    "json": "screenshots_db/terass_com.json"
+  },
+  {
+    "id": "unipos_co_jp",
+    "json": "screenshots_db/unipos_co_jp.json"
   },
   {
     "id": "www_cinra_co_jp",
@@ -56,11 +108,39 @@
     "json": "screenshots_db/www_cyberagent_co_jp.json"
   },
   {
+    "id": "www_estie_jp",
+    "json": "screenshots_db/www_estie_jp.json"
+  },
+  {
     "id": "www_growin_jp",
     "json": "screenshots_db/www_growin_jp.json"
   },
   {
+    "id": "www_hacomono_jp",
+    "json": "screenshots_db/www_hacomono_jp.json"
+  },
+  {
+    "id": "www_istyle_co_jp",
+    "json": "screenshots_db/www_istyle_co_jp.json"
+  },
+  {
     "id": "www_layerx_co_jp",
     "json": "screenshots_db/www_layerx_co_jp.json"
+  },
+  {
+    "id": "www_lycorp_co_jp",
+    "json": "screenshots_db/www_lycorp_co_jp.json"
+  },
+  {
+    "id": "www_recruit_co_jp",
+    "json": "screenshots_db/www_recruit_co_jp.json"
+  },
+  {
+    "id": "www_visional_inc",
+    "json": "screenshots_db/www_visional_inc.json"
+  },
+  {
+    "id": "www_wealthnavi_com",
+    "json": "screenshots_db/www_wealthnavi_com.json"
   }
 ]

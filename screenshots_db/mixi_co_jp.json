@@ -1,0 +1,37 @@
+{
+  "https://mixi.co.jp/": {
+    "meta": {
+      "url": "https://mixi.co.jp/",
+      "domain": "mixi_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:35:42.407Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mixi_co_jp/top/mixi_co_jp_top_pc.webp",
+        "sp": "../screenshots/mixi_co_jp/top/mixi_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

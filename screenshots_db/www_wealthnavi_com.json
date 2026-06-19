@@ -1,0 +1,37 @@
+{
+  "https://www.wealthnavi.com/": {
+    "meta": {
+      "url": "https://www.wealthnavi.com/",
+      "domain": "www_wealthnavi_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:41:38.266Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_wealthnavi_com/top/www_wealthnavi_com_top_pc.webp",
+        "sp": "../screenshots/www_wealthnavi_com/top/www_wealthnavi_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

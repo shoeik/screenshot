@@ -1,0 +1,37 @@
+{
+  "https://cybozu.co.jp/": {
+    "meta": {
+      "url": "https://cybozu.co.jp/",
+      "domain": "cybozu_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:40:22.967Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/cybozu_co_jp/top/cybozu_co_jp_top_pc.webp",
+        "sp": "../screenshots/cybozu_co_jp/top/cybozu_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

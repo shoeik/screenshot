@@ -1,0 +1,37 @@
+{
+  "https://www.visional.inc/": {
+    "meta": {
+      "url": "https://www.visional.inc/",
+      "domain": "www_visional_inc",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:39:12.237Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_visional_inc/top/www_visional_inc_top_pc.webp",
+        "sp": "../screenshots/www_visional_inc/top/www_visional_inc_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

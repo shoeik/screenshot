@@ -1,0 +1,37 @@
+{
+  "https://www.lycorp.co.jp/": {
+    "meta": {
+      "url": "https://www.lycorp.co.jp/",
+      "domain": "www_lycorp_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T07:53:01.153Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_lycorp_co_jp/top/www_lycorp_co_jp_top_pc.webp",
+        "sp": "../screenshots/www_lycorp_co_jp/top/www_lycorp_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}
