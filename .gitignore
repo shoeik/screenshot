@@ -2,3 +2,4 @@ node_modules/
 .DS_Store
 .vscode/
 screenshots/動画/
+logs/

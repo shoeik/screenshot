@@ -3,6 +3,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "puppeteer": "^25.1.0"
   }
 }
