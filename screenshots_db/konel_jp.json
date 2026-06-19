@@ -1,0 +1,40 @@
+{
+  "https://konel.jp/": {
+    "meta": {
+      "url": "https://konel.jp/",
+      "domain": "konel_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:57:56.950Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/konel_jp/top/konel_jp_top_pc.webp",
+        "sp": "../screenshots/konel_jp/top/konel_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "portfolio", "editorial", "minimal"]
+  }
+}

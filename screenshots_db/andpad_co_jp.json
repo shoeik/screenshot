@@ -1,0 +1,40 @@
+{
+  "https://andpad.co.jp/": {
+    "meta": {
+      "url": "https://andpad.co.jp/",
+      "domain": "andpad_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T19:06:26.673Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/andpad_co_jp/top/andpad_co_jp_top_pc.webp",
+        "sp": "../screenshots/andpad_co_jp/top/andpad_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "real-estate", "corporate", "clean", "bold"]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "https://micoworks.jp/": {
+    "meta": {
+      "url": "https://micoworks.jp/",
+      "domain": "micoworks_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T19:08:30.554Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/micoworks_jp/top/micoworks_jp_top_pc.webp",
+        "sp": "../screenshots/micoworks_jp/top/micoworks_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "it", "corporate", "bold", "playful"]
+  }
+}

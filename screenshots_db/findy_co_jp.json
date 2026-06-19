@@ -1,0 +1,40 @@
+{
+  "https://findy.co.jp/": {
+    "meta": {
+      "url": "https://findy.co.jp/",
+      "domain": "findy_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:59:15.627Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/findy_co_jp/top/findy_co_jp_top_pc.webp",
+        "sp": "../screenshots/findy_co_jp/top/findy_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["hr", "saas", "corporate", "clean", "playful"]
+  }
+}

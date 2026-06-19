@@ -1,0 +1,40 @@
+{
+  "https://www.loglass.co.jp/": {
+    "meta": {
+      "url": "https://www.loglass.co.jp/",
+      "domain": "www_loglass_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:58:17.159Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_loglass_co_jp/top/www_loglass_co_jp_top_pc.webp",
+        "sp": "../screenshots/www_loglass_co_jp/top/www_loglass_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "finance", "corporate", "clean", "minimal"]
+  }
+}

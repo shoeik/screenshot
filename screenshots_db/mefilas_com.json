@@ -1,0 +1,40 @@
+{
+  "https://mefilas.com/": {
+    "meta": {
+      "url": "https://mefilas.com/",
+      "domain": "mefilas_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T19:06:31.928Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mefilas_com/top/mefilas_com_top_pc.webp",
+        "sp": "../screenshots/mefilas_com/top/mefilas_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "corporate", "minimal", "editorial"]
+  }
+}

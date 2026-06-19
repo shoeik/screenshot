@@ -4,6 +4,10 @@
     "json": "screenshots_db/about_mercari_com.json"
   },
   {
+    "id": "andpad_co_jp",
+    "json": "screenshots_db/andpad_co_jp.json"
+  },
+  {
     "id": "corp_akatsuki-sc_com",
     "json": "screenshots_db/corp_akatsuki-sc_com.json"
   },
@@ -24,6 +28,10 @@
     "json": "screenshots_db/corp_rakuten_co_jp.json"
   },
   {
+    "id": "corp_timee_co_jp",
+    "json": "screenshots_db/corp_timee_co_jp.json"
+  },
+  {
     "id": "crowdworks_co_jp",
     "json": "screenshots_db/crowdworks_co_jp.json"
   },
@@ -34,6 +42,10 @@
   {
     "id": "dena_com",
     "json": "screenshots_db/dena_com.json"
+  },
+  {
+    "id": "findy_co_jp",
+    "json": "screenshots_db/findy_co_jp.json"
   },
   {
     "id": "goodpatch_com",
@@ -48,8 +60,36 @@
     "json": "screenshots_db/hikarina_co_jp.json"
   },
   {
+    "id": "kanmu_co_jp",
+    "json": "screenshots_db/kanmu_co_jp.json"
+  },
+  {
+    "id": "karappo_net",
+    "json": "screenshots_db/karappo_net.json"
+  },
+  {
+    "id": "konel_jp",
+    "json": "screenshots_db/konel_jp.json"
+  },
+  {
     "id": "kubell_com",
     "json": "screenshots_db/kubell_com.json"
+  },
+  {
+    "id": "luup_sc",
+    "json": "screenshots_db/luup_sc.json"
+  },
+  {
+    "id": "mefilas_com",
+    "json": "screenshots_db/mefilas_com.json"
+  },
+  {
+    "id": "mento_jp",
+    "json": "screenshots_db/mento_jp.json"
+  },
+  {
+    "id": "micoworks_jp",
+    "json": "screenshots_db/micoworks_jp.json"
   },
   {
     "id": "mixi_co_jp",
@@ -64,6 +104,10 @@
     "json": "screenshots_db/moniclefinancial_co_jp.json"
   },
   {
+    "id": "mount_jp",
+    "json": "screenshots_db/mount_jp.json"
+  },
+  {
     "id": "note_jp",
     "json": "screenshots_db/note_jp.json"
   },
@@ -74,6 +118,18 @@
   {
     "id": "plaid_co_jp",
     "json": "screenshots_db/plaid_co_jp.json"
+  },
+  {
+    "id": "qosmo_jp",
+    "json": "screenshots_db/qosmo_jp.json"
+  },
+  {
+    "id": "rhizomatiks_com",
+    "json": "screenshots_db/rhizomatiks_com.json"
+  },
+  {
+    "id": "sixinc_jp",
+    "json": "screenshots_db/sixinc_jp.json"
   },
   {
     "id": "smartcamp_co_jp",
@@ -92,12 +148,28 @@
     "json": "screenshots_db/speee_jp.json"
   },
   {
+    "id": "stockmark_co_jp",
+    "json": "screenshots_db/stockmark_co_jp.json"
+  },
+  {
     "id": "terass_com",
     "json": "screenshots_db/terass_com.json"
   },
   {
+    "id": "ubie_life",
+    "json": "screenshots_db/ubie_life.json"
+  },
+  {
     "id": "unipos_co_jp",
     "json": "screenshots_db/unipos_co_jp.json"
+  },
+  {
+    "id": "whatever_co",
+    "json": "screenshots_db/whatever_co.json"
+  },
+  {
+    "id": "www_aqworks_com",
+    "json": "screenshots_db/www_aqworks_com.json"
   },
   {
     "id": "www_cinra_co_jp",
@@ -124,8 +196,16 @@
     "json": "screenshots_db/www_istyle_co_jp.json"
   },
   {
+    "id": "www_kayac_com",
+    "json": "screenshots_db/www_kayac_com.json"
+  },
+  {
     "id": "www_layerx_co_jp",
     "json": "screenshots_db/www_layerx_co_jp.json"
+  },
+  {
+    "id": "www_loglass_co_jp",
+    "json": "screenshots_db/www_loglass_co_jp.json"
   },
   {
     "id": "www_lycorp_co_jp",

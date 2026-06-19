@@ -1,0 +1,40 @@
+{
+  "https://www.kayac.com/": {
+    "meta": {
+      "url": "https://www.kayac.com/",
+      "domain": "www_kayac_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:59:42.059Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_kayac_com/top/www_kayac_com_top_pc.webp",
+        "sp": "../screenshots/www_kayac_com/top/www_kayac_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["agency", "entertainment", "corporate", "playful", "editorial"]
+  }
+}

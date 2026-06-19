@@ -1,0 +1,40 @@
+{
+  "https://mount.jp/": {
+    "meta": {
+      "url": "https://mount.jp/",
+      "domain": "mount_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:56:23.195Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/mount_jp/top/mount_jp_top_pc.webp",
+        "sp": "../screenshots/mount_jp/top/mount_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "portfolio", "clean", "playful"]
+  }
+}

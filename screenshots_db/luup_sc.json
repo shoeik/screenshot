@@ -1,0 +1,40 @@
+{
+  "https://luup.sc/": {
+    "meta": {
+      "url": "https://luup.sc/",
+      "domain": "luup_sc",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T19:00:01.432Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/luup_sc/top/luup_sc_top_pc.webp",
+        "sp": "../screenshots/luup_sc/top/luup_sc_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["it", "service", "clean", "minimal"]
+  }
+}

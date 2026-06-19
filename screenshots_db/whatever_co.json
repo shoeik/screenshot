@@ -1,0 +1,40 @@
+{
+  "https://whatever.co/": {
+    "meta": {
+      "url": "https://whatever.co/",
+      "domain": "whatever_co",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T18:57:18.108Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/whatever_co/top/whatever_co_top_pc.webp",
+        "sp": "../screenshots/whatever_co/top/whatever_co_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "portfolio", "bold", "premium"]
+  }
+}
