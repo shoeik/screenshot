@@ -33,5 +33,8 @@
       }
     },
     "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "it", "service", "clean", "minimal"]
   }
 }

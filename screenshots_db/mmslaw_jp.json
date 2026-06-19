@@ -558,5 +558,8 @@
       }
     },
     "tags": []
+  },
+  "_site": {
+    "tags": ["legal", "corporate", "clean", "premium", "minimal"]
   }
 }
