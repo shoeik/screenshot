@@ -1,0 +1,37 @@
+{
+  "https://smartcamp.co.jp/": {
+    "meta": {
+      "url": "https://smartcamp.co.jp/",
+      "domain": "smartcamp_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T02:39:42.467Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/smartcamp_co_jp/top/smartcamp_co_jp_top_pc.webp",
+        "sp": "../screenshots/smartcamp_co_jp/top/smartcamp_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

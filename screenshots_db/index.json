@@ -4,6 +4,18 @@
     "json": "screenshots_db/corp_akatsuki-sc_com.json"
   },
   {
+    "id": "corp_freee_co_jp",
+    "json": "screenshots_db/corp_freee_co_jp.json"
+  },
+  {
+    "id": "corp_moneyforward_com",
+    "json": "screenshots_db/corp_moneyforward_com.json"
+  },
+  {
+    "id": "goodpatch_com",
+    "json": "screenshots_db/goodpatch_com.json"
+  },
+  {
     "id": "hikarina_co_jp",
     "json": "screenshots_db/hikarina_co_jp.json"
   },
@@ -12,15 +24,43 @@
     "json": "screenshots_db/mmslaw_jp.json"
   },
   {
+    "id": "moniclefinancial_co_jp",
+    "json": "screenshots_db/moniclefinancial_co_jp.json"
+  },
+  {
     "id": "nyle_co_jp",
     "json": "screenshots_db/nyle_co_jp.json"
+  },
+  {
+    "id": "plaid_co_jp",
+    "json": "screenshots_db/plaid_co_jp.json"
+  },
+  {
+    "id": "smartcamp_co_jp",
+    "json": "screenshots_db/smartcamp_co_jp.json"
   },
   {
     "id": "solvvy_co_jp",
     "json": "screenshots_db/solvvy_co_jp.json"
   },
   {
+    "id": "speee_jp",
+    "json": "screenshots_db/speee_jp.json"
+  },
+  {
+    "id": "www_cinra_co_jp",
+    "json": "screenshots_db/www_cinra_co_jp.json"
+  },
+  {
+    "id": "www_cyberagent_co_jp",
+    "json": "screenshots_db/www_cyberagent_co_jp.json"
+  },
+  {
     "id": "www_growin_jp",
     "json": "screenshots_db/www_growin_jp.json"
+  },
+  {
+    "id": "www_layerx_co_jp",
+    "json": "screenshots_db/www_layerx_co_jp.json"
   }
 ]

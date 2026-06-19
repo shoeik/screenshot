@@ -1,0 +1,37 @@
+{
+  "https://corp.moneyforward.com/": {
+    "meta": {
+      "url": "https://corp.moneyforward.com/",
+      "domain": "corp_moneyforward_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T02:45:02.766Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_moneyforward_com/top/corp_moneyforward_com_top_pc.webp",
+        "sp": "../screenshots/corp_moneyforward_com/top/corp_moneyforward_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}

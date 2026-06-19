@@ -1,0 +1,37 @@
+{
+  "https://www.cyberagent.co.jp/": {
+    "meta": {
+      "url": "https://www.cyberagent.co.jp/",
+      "domain": "www_cyberagent_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-19T02:49:45.970Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_cyberagent_co_jp/top/www_cyberagent_co_jp_top_pc.webp",
+        "sp": "../screenshots/www_cyberagent_co_jp/top/www_cyberagent_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  }
+}
