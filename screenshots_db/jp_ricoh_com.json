@@ -1,0 +1,40 @@
+{
+  "https://jp.ricoh.com/": {
+    "meta": {
+      "url": "https://jp.ricoh.com/",
+      "domain": "jp_ricoh_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:12:30.599Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/jp_ricoh_com/top/jp_ricoh_com_top_pc.webp",
+        "sp": "../screenshots/jp_ricoh_com/top/jp_ricoh_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["manufacturing", "it", "corporate", "clean", "minimal"]
+  }
+}

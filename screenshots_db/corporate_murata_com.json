@@ -1,0 +1,40 @@
+{
+  "https://corporate.murata.com/": {
+    "meta": {
+      "url": "https://corporate.murata.com/",
+      "domain": "corporate_murata_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:09:13.287Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corporate_murata_com/top/corporate_murata_com_top_pc.webp",
+        "sp": "../screenshots/corporate_murata_com/top/corporate_murata_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["manufacturing", "it", "corporate", "bold", "clean"]
+  }
+}

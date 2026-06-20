@@ -1,0 +1,40 @@
+{
+  "https://www.deloitte.com/": {
+    "meta": {
+      "url": "https://www.deloitte.com/",
+      "domain": "www_deloitte_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:15:46.514Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_deloitte_com/top/www_deloitte_com_top_pc.webp",
+        "sp": "../screenshots/www_deloitte_com/top/www_deloitte_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["finance", "professional-services", "corporate", "clean", "bold"]
+  }
+}

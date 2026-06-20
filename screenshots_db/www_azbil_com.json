@@ -1,0 +1,40 @@
+{
+  "https://www.azbil.com/": {
+    "meta": {
+      "url": "https://www.azbil.com/",
+      "domain": "www_azbil_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T07:04:07.950Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_azbil_com/top/www_azbil_com_top_pc.webp",
+        "sp": "../screenshots/www_azbil_com/top/www_azbil_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["industrial", "corporate", "clean", "bold"]
+  }
+}

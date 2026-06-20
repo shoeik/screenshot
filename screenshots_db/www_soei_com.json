@@ -1,0 +1,40 @@
+{
+  "https://www.soei.com/": {
+    "meta": {
+      "url": "https://www.soei.com/",
+      "domain": "www_soei_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:10:18.658Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_soei_com/top/www_soei_com_top_pc.webp",
+        "sp": "../screenshots/www_soei_com/top/www_soei_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["legal", "professional-services", "corporate", "clean", "premium"]
+  }
+}

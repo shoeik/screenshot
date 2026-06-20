@@ -8,6 +8,10 @@
     "json": "screenshots_db/andpad_co_jp.json"
   },
   {
+    "id": "binc_jp",
+    "json": "screenshots_db/binc_jp.json"
+  },
+  {
     "id": "corp_akatsuki-sc_com",
     "json": "screenshots_db/corp_akatsuki-sc_com.json"
   },
@@ -24,12 +28,28 @@
     "json": "screenshots_db/corp_moneyforward_com.json"
   },
   {
+    "id": "corp_newspicks_com",
+    "json": "screenshots_db/corp_newspicks_com.json"
+  },
+  {
+    "id": "corp_raksul_com",
+    "json": "screenshots_db/corp_raksul_com.json"
+  },
+  {
     "id": "corp_rakuten_co_jp",
     "json": "screenshots_db/corp_rakuten_co_jp.json"
   },
   {
     "id": "corp_timee_co_jp",
     "json": "screenshots_db/corp_timee_co_jp.json"
+  },
+  {
+    "id": "corp_visasq_co_jp",
+    "json": "screenshots_db/corp_visasq_co_jp.json"
+  },
+  {
+    "id": "corporate_murata_com",
+    "json": "screenshots_db/corporate_murata_com.json"
   },
   {
     "id": "crowdworks_co_jp",
@@ -48,6 +68,14 @@
     "json": "screenshots_db/findy_co_jp.json"
   },
   {
+    "id": "geekpictures_co_jp",
+    "json": "screenshots_db/geekpictures_co_jp.json"
+  },
+  {
+    "id": "global_toyota",
+    "json": "screenshots_db/global_toyota.json"
+  },
+  {
     "id": "goodpatch_com",
     "json": "screenshots_db/goodpatch_com.json"
   },
@@ -58,6 +86,10 @@
   {
     "id": "hikarina_co_jp",
     "json": "screenshots_db/hikarina_co_jp.json"
+  },
+  {
+    "id": "jp_ricoh_com",
+    "json": "screenshots_db/jp_ricoh_com.json"
   },
   {
     "id": "kanmu_co_jp",
@@ -168,16 +200,68 @@
     "json": "screenshots_db/whatever_co.json"
   },
   {
+    "id": "www_adk_jp",
+    "json": "screenshots_db/www_adk_jp.json"
+  },
+  {
+    "id": "www_agc_com",
+    "json": "screenshots_db/www_agc_com.json"
+  },
+  {
+    "id": "www_agsc_co_jp",
+    "json": "screenshots_db/www_agsc_co_jp.json"
+  },
+  {
+    "id": "www_aoi-pro_com",
+    "json": "screenshots_db/www_aoi-pro_com.json"
+  },
+  {
     "id": "www_aqworks_com",
     "json": "screenshots_db/www_aqworks_com.json"
+  },
+  {
+    "id": "www_azbil_com",
+    "json": "screenshots_db/www_azbil_com.json"
+  },
+  {
+    "id": "www_bdo_or_jp",
+    "json": "screenshots_db/www_bdo_or_jp.json"
+  },
+  {
+    "id": "www_bridgestone_co_jp",
+    "json": "screenshots_db/www_bridgestone_co_jp.json"
   },
   {
     "id": "www_cinra_co_jp",
     "json": "screenshots_db/www_cinra_co_jp.json"
   },
   {
+    "id": "www_city-yuwa_com",
+    "json": "screenshots_db/www_city-yuwa_com.json"
+  },
+  {
     "id": "www_cyberagent_co_jp",
     "json": "screenshots_db/www_cyberagent_co_jp.json"
+  },
+  {
+    "id": "www_deloitte_com",
+    "json": "screenshots_db/www_deloitte_com.json"
+  },
+  {
+    "id": "www_dentsu_co_jp",
+    "json": "screenshots_db/www_dentsu_co_jp.json"
+  },
+  {
+    "id": "www_dentsudigital_co_jp",
+    "json": "screenshots_db/www_dentsudigital_co_jp.json"
+  },
+  {
+    "id": "www_eisai_co_jp",
+    "json": "screenshots_db/www_eisai_co_jp.json"
+  },
+  {
+    "id": "www_epoch-inc_jp",
+    "json": "screenshots_db/www_epoch-inc_jp.json"
   },
   {
     "id": "www_estie_jp",
@@ -192,12 +276,48 @@
     "json": "screenshots_db/www_hacomono_jp.json"
   },
   {
+    "id": "www_hakuhodody-one_co_jp",
+    "json": "screenshots_db/www_hakuhodody-one_co_jp.json"
+  },
+  {
+    "id": "www_hoya_com",
+    "json": "screenshots_db/www_hoya_com.json"
+  },
+  {
+    "id": "www_imgsrc_co_jp",
+    "json": "screenshots_db/www_imgsrc_co_jp.json"
+  },
+  {
     "id": "www_istyle_co_jp",
     "json": "screenshots_db/www_istyle_co_jp.json"
   },
   {
+    "id": "www_jgc_com",
+    "json": "screenshots_db/www_jgc_com.json"
+  },
+  {
+    "id": "www_kakehashi_life",
+    "json": "screenshots_db/www_kakehashi_life.json"
+  },
+  {
     "id": "www_kayac_com",
     "json": "screenshots_db/www_kayac_com.json"
+  },
+  {
+    "id": "www_keyence_co_jp",
+    "json": "screenshots_db/www_keyence_co_jp.json"
+  },
+  {
+    "id": "www_kojimalaw_jp",
+    "json": "screenshots_db/www_kojimalaw_jp.json"
+  },
+  {
+    "id": "www_kpmg_com",
+    "json": "screenshots_db/www_kpmg_com.json"
+  },
+  {
+    "id": "www_kubota_co_jp",
+    "json": "screenshots_db/www_kubota_co_jp.json"
   },
   {
     "id": "www_layerx_co_jp",
@@ -212,8 +332,84 @@
     "json": "screenshots_db/www_lycorp_co_jp.json"
   },
   {
+    "id": "www_medley_jp",
+    "json": "screenshots_db/www_medley_jp.json"
+  },
+  {
+    "id": "www_nidec_com",
+    "json": "screenshots_db/www_nidec_com.json"
+  },
+  {
+    "id": "www_nissan-global_com",
+    "json": "screenshots_db/www_nissan-global_com.json"
+  },
+  {
+    "id": "www_noandt_com",
+    "json": "screenshots_db/www_noandt_com.json"
+  },
+  {
+    "id": "www_pics_tokyo",
+    "json": "screenshots_db/www_pics_tokyo.json"
+  },
+  {
+    "id": "www_preferred_jp",
+    "json": "screenshots_db/www_preferred_jp.json"
+  },
+  {
+    "id": "www_pwc_com",
+    "json": "screenshots_db/www_pwc_com.json"
+  },
+  {
     "id": "www_recruit_co_jp",
     "json": "screenshots_db/www_recruit_co_jp.json"
+  },
+  {
+    "id": "www_revcomm_co_jp",
+    "json": "screenshots_db/www_revcomm_co_jp.json"
+  },
+  {
+    "id": "www_rohm_co_jp",
+    "json": "screenshots_db/www_rohm_co_jp.json"
+  },
+  {
+    "id": "www_secom_co_jp",
+    "json": "screenshots_db/www_secom_co_jp.json"
+  },
+  {
+    "id": "www_shimz_co_jp",
+    "json": "screenshots_db/www_shimz_co_jp.json"
+  },
+  {
+    "id": "www_shippio_io",
+    "json": "screenshots_db/www_shippio_io.json"
+  },
+  {
+    "id": "www_smcworld_com",
+    "json": "screenshots_db/www_smcworld_com.json"
+  },
+  {
+    "id": "www_soei_com",
+    "json": "screenshots_db/www_soei_com.json"
+  },
+  {
+    "id": "www_spacemarket_com",
+    "json": "screenshots_db/www_spacemarket_com.json"
+  },
+  {
+    "id": "www_sysmex_co_jp",
+    "json": "screenshots_db/www_sysmex_co_jp.json"
+  },
+  {
+    "id": "www_tbwahakuhodo_co_jp",
+    "json": "screenshots_db/www_tbwahakuhodo_co_jp.json"
+  },
+  {
+    "id": "www_tmi_gr_jp",
+    "json": "screenshots_db/www_tmi_gr_jp.json"
+  },
+  {
+    "id": "www_toray_co_jp",
+    "json": "screenshots_db/www_toray_co_jp.json"
   },
   {
     "id": "www_visional_inc",
@@ -222,5 +418,9 @@
   {
     "id": "www_wealthnavi_com",
     "json": "screenshots_db/www_wealthnavi_com.json"
+  },
+  {
+    "id": "www_yaskawa_co_jp",
+    "json": "screenshots_db/www_yaskawa_co_jp.json"
   }
 ]

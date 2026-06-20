@@ -1,0 +1,40 @@
+{
+  "https://www.agc.com/": {
+    "meta": {
+      "url": "https://www.agc.com/",
+      "domain": "www_agc_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:14:43.788Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_agc_com/top/www_agc_com_top_pc.webp",
+        "sp": "../screenshots/www_agc_com/top/www_agc_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["manufacturing", "corporate", "clean", "bold"]
+  }
+}

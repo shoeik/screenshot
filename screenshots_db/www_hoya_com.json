@@ -1,0 +1,40 @@
+{
+  "https://www.hoya.com/": {
+    "meta": {
+      "url": "https://www.hoya.com/",
+      "domain": "www_hoya_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:28:24.446Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_hoya_com/top/www_hoya_com_top_pc.webp",
+        "sp": "../screenshots/www_hoya_com/top/www_hoya_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["healthcare", "manufacturing", "corporate", "clean", "premium"]
+  }
+}

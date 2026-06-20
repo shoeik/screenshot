@@ -1,0 +1,40 @@
+{
+  "https://binc.jp/": {
+    "meta": {
+      "url": "https://binc.jp/",
+      "domain": "binc_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:07:51.499Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/binc_jp/top/binc_jp_top_pc.webp",
+        "sp": "../screenshots/binc_jp/top/binc_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "it", "corporate", "clean", "bold"]
+  }
+}

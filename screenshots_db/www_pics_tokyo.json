@@ -1,0 +1,40 @@
+{
+  "https://www.pics.tokyo/": {
+    "meta": {
+      "url": "https://www.pics.tokyo/",
+      "domain": "www_pics_tokyo",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:11:12.873Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_pics_tokyo/top/www_pics_tokyo_top_pc.webp",
+        "sp": "../screenshots/www_pics_tokyo/top/www_pics_tokyo_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "portfolio", "bold", "premium"]
+  }
+}

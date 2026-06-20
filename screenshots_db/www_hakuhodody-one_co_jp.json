@@ -1,0 +1,40 @@
+{
+  "https://www.hakuhodody-one.co.jp/": {
+    "meta": {
+      "url": "https://www.hakuhodody-one.co.jp/",
+      "domain": "www_hakuhodody-one_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:10:25.038Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_hakuhodody-one_co_jp/top/www_hakuhodody-one_co_jp_top_pc.webp",
+        "sp": "../screenshots/www_hakuhodody-one_co_jp/top/www_hakuhodody-one_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "corporate", "playful", "bold"]
+  }
+}

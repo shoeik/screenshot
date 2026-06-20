@@ -1,0 +1,40 @@
+{
+  "https://www.nidec.com/": {
+    "meta": {
+      "url": "https://www.nidec.com/",
+      "domain": "www_nidec_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:11:17.914Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_nidec_com/top/www_nidec_com_top_pc.webp",
+        "sp": "../screenshots/www_nidec_com/top/www_nidec_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["manufacturing", "industrial", "corporate", "clean", "minimal"]
+  }
+}

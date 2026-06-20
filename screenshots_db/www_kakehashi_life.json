@@ -1,0 +1,40 @@
+{
+  "https://www.kakehashi.life/": {
+    "meta": {
+      "url": "https://www.kakehashi.life/",
+      "domain": "www_kakehashi_life",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:23:24.251Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_kakehashi_life/top/www_kakehashi_life_top_pc.webp",
+        "sp": "../screenshots/www_kakehashi_life/top/www_kakehashi_life_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "healthcare", "corporate", "clean", "minimal"]
+  }
+}

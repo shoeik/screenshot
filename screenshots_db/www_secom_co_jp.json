@@ -1,0 +1,40 @@
+{
+  "https://www.secom.co.jp/": {
+    "meta": {
+      "url": "https://www.secom.co.jp/",
+      "domain": "www_secom_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:39:58.862Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_secom_co_jp/top/www_secom_co_jp_top_pc.webp",
+        "sp": "../screenshots/www_secom_co_jp/top/www_secom_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["security", "service", "corporate", "clean"]
+  }
+}

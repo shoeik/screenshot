@@ -1,0 +1,40 @@
+{
+  "https://corp.newspicks.com/": {
+    "meta": {
+      "url": "https://corp.newspicks.com/",
+      "domain": "corp_newspicks_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:23:24.390Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_newspicks_com/top/corp_newspicks_com_top_pc.webp",
+        "sp": "../screenshots/corp_newspicks_com/top/corp_newspicks_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["media", "it", "corporate", "editorial", "minimal"]
+  }
+}

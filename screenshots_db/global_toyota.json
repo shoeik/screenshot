@@ -1,0 +1,40 @@
+{
+  "https://global.toyota/": {
+    "meta": {
+      "url": "https://global.toyota/",
+      "domain": "global_toyota",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:07:56.652Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/global_toyota/top/global_toyota_top_pc.webp",
+        "sp": "../screenshots/global_toyota/top/global_toyota_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["manufacturing", "automotive", "corporate", "bold", "clean"]
+  }
+}

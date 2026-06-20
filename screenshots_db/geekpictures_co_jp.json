@@ -1,0 +1,40 @@
+{
+  "https://geekpictures.co.jp/": {
+    "meta": {
+      "url": "https://geekpictures.co.jp/",
+      "domain": "geekpictures_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:30:43.466Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/geekpictures_co_jp/top/geekpictures_co_jp_top_pc.webp",
+        "sp": "../screenshots/geekpictures_co_jp/top/geekpictures_co_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["design", "agency", "portfolio", "playful", "bold"]
+  }
+}

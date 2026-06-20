@@ -1,0 +1,40 @@
+{
+  "https://www.tmi.gr.jp/": {
+    "meta": {
+      "url": "https://www.tmi.gr.jp/",
+      "domain": "www_tmi_gr_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:10:29.410Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_tmi_gr_jp/top/www_tmi_gr_jp_top_pc.webp",
+        "sp": "../screenshots/www_tmi_gr_jp/top/www_tmi_gr_jp_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["legal", "professional-services", "corporate", "editorial", "premium"]
+  }
+}

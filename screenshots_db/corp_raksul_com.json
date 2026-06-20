@@ -1,0 +1,40 @@
+{
+  "https://corp.raksul.com/": {
+    "meta": {
+      "url": "https://corp.raksul.com/",
+      "domain": "corp_raksul_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:28:17.734Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/corp_raksul_com/top/corp_raksul_com_top_pc.webp",
+        "sp": "../screenshots/corp_raksul_com/top/corp_raksul_com_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "it", "corporate", "bold", "clean"]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "https://www.shippio.io/": {
+    "meta": {
+      "url": "https://www.shippio.io/",
+      "domain": "www_shippio_io",
+      "slug": "top",
+      "path": "/",
+      "depth": 0,
+      "capturedAt": "2026-06-20T06:23:19.893Z"
+    },
+    "assets": {
+      "image": {
+        "pc": "../screenshots/www_shippio_io/top/www_shippio_io_top_pc.webp",
+        "sp": "../screenshots/www_shippio_io/top/www_shippio_io_top_sp.webp"
+      },
+      "video": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": false,
+      "animationHeavy": false,
+      "hasWebGL": false,
+      "hasScrollTrigger": false,
+      "checked": {
+        "auto": false,
+        "manual": false
+      }
+    },
+    "tags": []
+  },
+  "_site": {
+    "tags": ["saas", "logistics", "service", "corporate", "bold"]
+  }
+}
