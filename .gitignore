@@ -3,3 +3,4 @@ node_modules/
 .vscode/
 screenshots/動画/
 logs/
+screenshots/**/*.mp4
