@@ -121,7 +121,7 @@ function applyFilters() {
 			matchesTopFilter(item) &&
 			matchesKeyword(item, keyword) &&
 			matchesTagFilters(item) &&
-			hasVisibleImage(item)
+			(hasVisibleImage(item) || hasVisibleVideo(item))
 		);
 	});
 
@@ -171,6 +171,11 @@ function hasVisibleImage(item) {
 	return Boolean((displayState.pc && images.pc) || (displayState.sp && images.sp));
 }
 
+function hasVisibleVideo(item) {
+	const videos = item.assets?.video || {};
+	return Boolean((displayState.pc && videos.pc) || (displayState.sp && videos.sp));
+}
+
 function getVisibleImages(item) {
 	const images = item.assets?.image || {};
 	const visibleImages = [];
@@ -184,6 +189,21 @@ function getVisibleImages(item) {
 	}
 
 	return visibleImages;
+}
+
+function getVisibleVideos(item) {
+	const videos = item.assets?.video || {};
+	const visibleVideos = [];
+
+	if (displayState.pc && videos.pc) {
+		visibleVideos.push({ type: "pc", label: "PC", src: videos.pc });
+	}
+
+	if (displayState.sp && videos.sp) {
+		visibleVideos.push({ type: "sp", label: "SP", src: videos.sp });
+	}
+
+	return visibleVideos;
 }
 
 // ==============================
@@ -200,7 +220,8 @@ function renderGallery(items) {
 
 	items.forEach(item => {
 		const visibleImages = getVisibleImages(item);
-		if (!visibleImages.length) return;
+		const visibleVideos = getVisibleVideos(item);
+		if (!visibleImages.length && !visibleVideos.length) return;
 
 		const card = document.createElement("div");
 		card.className = "item";
@@ -228,6 +249,29 @@ function renderGallery(items) {
 
 		link.appendChild(thumbs);
 		card.appendChild(link);
+
+		// 動画は <a> の外に置く（再生コントロール操作でリンク遷移しないように）
+		if (visibleVideos.length) {
+			const videos = document.createElement("div");
+			videos.className = "videos";
+
+			visibleVideos.forEach(video => {
+				const figure = document.createElement("figure");
+				figure.className = `video ${video.type}`;
+
+				const player = document.createElement("video");
+				player.src = video.src;
+				player.controls = true;
+				player.muted = true;
+				player.playsInline = true;
+				player.preload = "metadata";
+
+				figure.appendChild(player);
+				videos.appendChild(figure);
+			});
+
+			card.appendChild(videos);
+		}
 
 		const title = document.createElement("div");
 		title.className = "title";

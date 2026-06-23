@@ -452,3 +452,55 @@ body {
 		max-width: none;
 	}
 }
+
+/* ===== 動画 (PoC) ===== */
+.videos {
+	display: grid;
+	grid-template-columns: 1fr 0.42fr;
+	gap: 10px;
+	align-items: start;
+	margin-top: 10px;
+}
+
+.videos:has(.video.pc:only-child) {
+	grid-template-columns: 1fr;
+}
+
+.videos:has(.video.sp:only-child) {
+	grid-template-columns: 0.42fr;
+}
+
+.video {
+	position: relative;
+	background: #000;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.video::before {
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	z-index: 1;
+	padding: 3px 6px;
+	border-radius: 999px;
+	background: rgba(0, 0, 0, 0.75);
+	color: #fff;
+	font-size: 10px;
+	letter-spacing: 0.04em;
+}
+
+.video.pc::before {
+	content: "PC ▶";
+}
+
+.video.sp::before {
+	content: "SP ▶";
+}
+
+.video video {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
