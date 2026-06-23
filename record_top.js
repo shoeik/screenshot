@@ -133,7 +133,10 @@ function parseDurationSeconds(value) {
 	return Number(match[1]) * 3600 + Number(match[2]) * 60 + Number(match[3]);
 }
 
-async function remuxVideo(inputPath, outputPath) {
+async function encodeVideo(inputPath, outputPath) {
+	// Puppeteerのscreencast出力はVP9/gbrp/MOVで、Safari・Firefoxでは再生不可。
+	// gallery配信用にH.264/yuv420pへ再エンコードし、全主要ブラウザで再生できる
+	// mp4へ正規化する。yuv420pはハードウェアデコード互換、+faststartで先頭再生可。
 	await execFileAsync(
 		FFMPEG_PATH,
 		[
@@ -144,8 +147,16 @@ async function remuxVideo(inputPath, outputPath) {
 			inputPath,
 			"-map",
 			"0:v:0",
-			"-c",
-			"copy",
+			"-c:v",
+			"libx264",
+			"-profile:v",
+			"main",
+			"-pix_fmt",
+			"yuv420p",
+			"-crf",
+			"20",
+			"-preset",
+			"veryfast",
 			"-movflags",
 			"+faststart",
 			outputPath
@@ -177,6 +188,22 @@ async function validateVideo(filePath, expectedViewport) {
 	const videoStreamLine = stderr
 		.split("\n")
 		.find(line => /Stream #.*Video:/.test(line));
+
+	// コーデックとピクセルフォーマットを検証する。screencstの素のVP9/gbrpが
+	// そのまま配信されると主要ブラウザで再生できないため、再エンコード後に
+	// h264 / yuv420p であることを必須化する。
+	const codecMatch = videoStreamLine?.match(/Video:\s*([a-z0-9]+)/i);
+	const codecName = codecMatch ? codecMatch[1].toLowerCase() : null;
+	if (codecName !== "h264") {
+		throw new Error(`コーデックが不正です: ${codecName || "取得不可"} (期待値 h264)`);
+	}
+
+	const pixFmtMatch = videoStreamLine?.match(/Video:\s*[a-z0-9]+[^,]*,\s*([a-z0-9]+)/i);
+	const pixFmt = pixFmtMatch ? pixFmtMatch[1].toLowerCase() : null;
+	if (pixFmt !== "yuv420p") {
+		throw new Error(`pix_fmtが不正です: ${pixFmt || "取得不可"} (期待値 yuv420p)`);
+	}
+
 	const dimensionsMatch = videoStreamLine?.match(/,\s*(\d{2,5})x(\d{2,5})(?:[,\s])/);
 	const width = dimensionsMatch ? Number(dimensionsMatch[1]) : null;
 	const height = dimensionsMatch ? Number(dimensionsMatch[2]) : null;
@@ -187,7 +214,7 @@ async function validateVideo(filePath, expectedViewport) {
 		);
 	}
 
-	return { bytes, duration, width, height };
+	return { bytes, duration, width, height, codecName, pixFmt };
 }
 
 function installValidatedVideos(results) {
@@ -303,8 +330,8 @@ async function recordViewport(browser, key) {
 	const vp = VIEWPORTS[key];
 	const outPath = key === "pc" ? pcFsPath : spFsPath;
 	const rawPath = path.join(saveDir, `.${baseName}_${key}.${TEMP_SUFFIX}.raw.mp4`);
-	const remuxedPath = path.join(saveDir, `.${baseName}_${key}.${TEMP_SUFFIX}.remux.mp4`);
-	let keepRemuxed = false;
+	const encodedPath = path.join(saveDir, `.${baseName}_${key}.${TEMP_SUFFIX}.h264.mp4`);
+	let keepEncoded = false;
 
 	const page = await browser.newPage();
 	try {
@@ -321,23 +348,23 @@ async function recordViewport(browser, key) {
 		await wait(END_HOLD_MS);
 		await recorder.stop();
 
-		await remuxVideo(rawPath, remuxedPath);
-		const result = await validateVideo(remuxedPath, vp);
-		keepRemuxed = true;
+		await encodeVideo(rawPath, encodedPath);
+		const result = await validateVideo(encodedPath, vp);
+		keepEncoded = true;
 
 		console.log(
 			`   ✅ [${key.toUpperCase()}] 検証成功: ` +
 				`(${(result.bytes / 1024).toFixed(0)}KB / ${result.duration.toFixed(2)}秒 / ` +
-				`${result.width}x${result.height})`
+				`${result.width}x${result.height} / ${result.codecName}/${result.pixFmt})`
 		);
-		return { ok: true, ...result, validatedPath: remuxedPath, outPath };
+		return { ok: true, ...result, validatedPath: encodedPath, outPath };
 	} catch (error) {
 		console.log(`   ❌ [${key.toUpperCase()}] 録画失敗: ${error.message}`);
 		return { ok: false, error: error.message };
 	} finally {
 		removeFileIfExists(rawPath);
-		if (!keepRemuxed) {
-			removeFileIfExists(remuxedPath);
+		if (!keepEncoded) {
+			removeFileIfExists(encodedPath);
 		}
 		await page.close().catch(() => {});
 	}
