@@ -14,8 +14,8 @@
         "sp": "../screenshots/hikarina_co_jp/top/hikarina_co_jp_top_sp.webp"
       },
       "video": {
-        "pc": "../screenshots/hikarina_co_jp/top/hikarina_co_jp_top_pc.mp4",
-        "sp": "../screenshots/hikarina_co_jp/top/hikarina_co_jp_top_sp.mp4"
+        "pc": null,
+        "sp": null
       },
       "thumb": {
         "pc": null,
@@ -23,7 +23,7 @@
       }
     },
     "analysis": {
-      "needsVideo": true,
+      "needsVideo": false,
       "animationHeavy": false,
       "hasWebGL": false,
       "hasScrollTrigger": false,
@@ -3713,12 +3713,6 @@
     "tags": []
   },
   "_site": {
-    "tags": [
-      "design",
-      "agency",
-      "portfolio",
-      "bold",
-      "premium"
-    ]
+    "tags": ["design", "agency", "portfolio", "bold", "premium"]
   }
 }
