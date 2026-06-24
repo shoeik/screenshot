@@ -226,31 +226,8 @@ function renderGallery(items) {
 		const card = document.createElement("div");
 		card.className = "item";
 
-		const link = document.createElement("a");
-		link.href = item.meta?.url || item.url || "#";
-		link.target = "_blank";
-		link.rel = "noopener noreferrer";
-
-		const thumbs = document.createElement("div");
-		thumbs.className = "thumbs";
-
-		visibleImages.forEach(image => {
-			const figure = document.createElement("figure");
-			figure.className = `thumb ${image.type}`;
-
-			const img = document.createElement("img");
-			img.src = image.src;
-			img.alt = `${item.title} ${image.label}`;
-			img.loading = "lazy";
-
-			figure.appendChild(img);
-			thumbs.appendChild(figure);
-		});
-
-		link.appendChild(thumbs);
-		card.appendChild(link);
-
-		// 動画は <a> の外に置く（再生コントロール操作でリンク遷移しないように）
+		// 同じカード内に「動画（上）→ 画像（下）」の順でまとめて描画する。
+		// 動画は <a> の外に置き、再生コントロール操作でリンク遷移しないようにする。
 		if (visibleVideos.length) {
 			const videos = document.createElement("div");
 			videos.className = "videos";
@@ -271,6 +248,33 @@ function renderGallery(items) {
 			});
 
 			card.appendChild(videos);
+		}
+
+		// 画像セクション（動画の下）。画像が無いサイトでは空枠を作らない。
+		if (visibleImages.length) {
+			const link = document.createElement("a");
+			link.href = item.meta?.url || item.url || "#";
+			link.target = "_blank";
+			link.rel = "noopener noreferrer";
+
+			const thumbs = document.createElement("div");
+			thumbs.className = "thumbs";
+
+			visibleImages.forEach(image => {
+				const figure = document.createElement("figure");
+				figure.className = `thumb ${image.type}`;
+
+				const img = document.createElement("img");
+				img.src = image.src;
+				img.alt = `${item.title} ${image.label}`;
+				img.loading = "lazy";
+
+				figure.appendChild(img);
+				thumbs.appendChild(figure);
+			});
+
+			link.appendChild(thumbs);
+			card.appendChild(link);
 		}
 
 		const title = document.createElement("div");

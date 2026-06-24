@@ -454,12 +454,13 @@ body {
 }
 
 /* ===== 動画 (PoC) ===== */
+/* カード上部に置く。画像セクションとの間に余白を取る。 */
 .videos {
 	display: grid;
 	grid-template-columns: 1fr 0.42fr;
 	gap: 10px;
 	align-items: start;
-	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .videos:has(.video.pc:only-child) {
