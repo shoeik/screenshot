@@ -16,14 +16,24 @@ const execFileAsync = promisify(execFile);
  * 使い方:
  *   node record_top.js https://hikarina.co.jp/
  *
- * 保存先（既存構造に合わせる）:
+ * 既存レコードへの統合（重複レコード防止）:
+ *   録画前に screenshots_db/*.json を走査し、対象URLに対応する
+ *   既存レコードを優先順位付きで探す。
+ *     1) 完全一致URL
+ *     2) www有無を無視したURL一致（同一path）
+ *     3) domain正規化後に一致（TOP限定）
+ *   見つかった場合は新規JSONを作らず、既存レコードの meta.domain を
+ *   正準ドメインとして採用し、保存先・DBキー・相対パスをそれに揃える。
+ *   見つからない場合のみ入力URL由来のドメインで新規作成する。
+ *
+ * 保存先（正準ドメイン基準）:
  *   screenshots/<domain>/top/<domain>_top_pc.mp4
  *   screenshots/<domain>/top/<domain>_top_sp.mp4
  *
  * DB 書き戻し（既存値は壊さない）:
- *   screenshots_db/<domain>.json の対象URLキーに
+ *   screenshots_db/<domain>.json の既存URLキーに
  *   assets.video.pc / assets.video.sp（gallery相対パス）を追記。
- *   assets.image / assets.thumb / tags / _site.tags / analysis は保持。
+ *   assets.image / assets.thumb / tags / _site.tags / analysis.checked は保持。
  *   analysis.needsVideo = true。
  *
  * 依存:
@@ -98,22 +108,157 @@ try {
 	process.exit(1);
 }
 
-const domain = urlObj.hostname.replace(/\./g, "_");
 const slug = "top";
-const saveDir = path.join("screenshots", domain, slug);
-const baseName = `${domain}_${slug}`;
-const pcFsPath = path.join(saveDir, `${baseName}_pc.mp4`);
-const spFsPath = path.join(saveDir, `${baseName}_sp.mp4`);
-const pcUIPath = `../${pcFsPath.replace(/\\/g, "/")}`;
-const spUIPath = `../${spFsPath.replace(/\\/g, "/")}`;
-const DB_FILE = `./screenshots_db/${domain}.json`;
+const DB_DIR = "./screenshots_db";
 const TEMP_SUFFIX = `${process.pid}-${Date.now()}`;
+
+// 以下は既存DB検索（resolveTarget）後に確定する。
+// 既存レコードが見つかった場合は入力URL由来ではなく
+// 既存レコードの meta.domain を正準ドメインとして採用し、
+// 動画の保存先・DB書き込み先・相対パスをそれに揃える。
+let domain;
+let saveDir;
+let baseName;
+let pcFsPath;
+let spFsPath;
+let pcUIPath;
+let spUIPath;
+let DB_FILE;
+let dbKey; // DBへ書き込むURLキー（既存レコードがあればそのキーを保持）
+let matchedRecord = null; // 既存レコード（無ければ null = 新規作成）
 
 // ---------------------------------------
 // ユーティリティ
 // ---------------------------------------
 function wait(ms) {
 	return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// ---------------------------------------
+// URL正規化 / 既存レコード検索
+// ---------------------------------------
+// www有無を無視するためホスト先頭の "www." を除去し小文字化する。
+function normalizeHost(host) {
+	return host.toLowerCase().replace(/^www\./, "");
+}
+
+// 末尾スラッシュの有無を吸収する。ルートは "" に正規化する。
+function normalizePath(pathname) {
+	return (pathname || "").replace(/\/+$/, "");
+}
+
+// 対象レコードがTOPページかどうか。優先順位3（ドメイン一致）の
+// 誤マッチを防ぐためのガード。
+function isTopRecord(record, urlKey) {
+	const meta = (record && record.meta) || {};
+	if (meta.slug === "top") return true;
+	if (meta.depth === 0) return true;
+	if (normalizePath(meta.path || "") === "") return true;
+	try {
+		if (normalizePath(new URL(urlKey).pathname) === "") return true;
+	} catch {
+		// URLとして解釈できないキーはTOP扱いしない
+	}
+	return false;
+}
+
+/**
+ * screenshots_db/*.json を走査し、録画対象URLに対応する既存レコードを
+ * 優先順位付きで探す。
+ *
+ *   1) 完全一致URL                       key === targetUrl
+ *   2) www有無を無視したURL一致（同一path） normHost一致 かつ 同一normPath
+ *   3) domain正規化後に一致（TOP限定）    normHost一致 かつ TOP
+ *                                         かつ（同一normPath または ルート）
+ *
+ * 戻り値: { file, key, record, matchedBy } または null
+ */
+function findExistingRecord(targetUrl) {
+	let target;
+	try {
+		target = new URL(targetUrl);
+	} catch {
+		return null;
+	}
+	const tHost = normalizeHost(target.hostname);
+	const tPath = normalizePath(target.pathname);
+
+	if (!fs.existsSync(DB_DIR)) return null;
+	const files = fs
+		.readdirSync(DB_DIR)
+		.filter(f => f.endsWith(".json") && f !== "index.json");
+
+	let exact = null;
+	let wwwMatch = null;
+	let domainMatch = null;
+
+	for (const file of files) {
+		let db;
+		try {
+			db = JSON.parse(fs.readFileSync(path.join(DB_DIR, file), "utf-8"));
+		} catch {
+			continue; // 壊れたJSONはスキップ
+		}
+		for (const key of Object.keys(db)) {
+			if (key === "_site") continue;
+			const record = db[key];
+
+			if (!exact && key === targetUrl) {
+				exact = { file, key, record, matchedBy: "exact" };
+			}
+
+			let keyUrl;
+			try {
+				keyUrl = new URL(key);
+			} catch {
+				continue;
+			}
+			if (normalizeHost(keyUrl.hostname) !== tHost) continue;
+			const kPath = normalizePath(keyUrl.pathname);
+
+			if (!wwwMatch && kPath === tPath) {
+				wwwMatch = { file, key, record, matchedBy: "www-insensitive" };
+			}
+			if (
+				!domainMatch &&
+				isTopRecord(record, key) &&
+				(kPath === tPath || kPath === "")
+			) {
+				domainMatch = { file, key, record, matchedBy: "domain" };
+			}
+		}
+	}
+
+	return exact || wwwMatch || domainMatch || null;
+}
+
+// 既存DB検索の結果に応じて、保存先・DBキー・相対パスを確定する。
+function resolveTarget() {
+	const match = findExistingRecord(TARGET_URL);
+	if (match) {
+		matchedRecord = match.record;
+		domain =
+			(match.record.meta && match.record.meta.domain) ||
+			match.file.replace(/\.json$/, "");
+		DB_FILE = `${DB_DIR}/${match.file}`;
+		dbKey = match.key;
+		console.log(
+			`🔁 既存レコードへ統合 (${match.matchedBy}): ${match.file} [${match.key}]`
+		);
+		console.log(`   正準ドメイン: ${domain}`);
+	} else {
+		domain = urlObj.hostname.replace(/\./g, "_");
+		DB_FILE = `${DB_DIR}/${domain}.json`;
+		dbKey = TARGET_URL;
+		console.log(`🆕 既存レコードなし。新規作成: ${domain}.json`);
+	}
+
+	saveDir = path.join("screenshots", domain, slug);
+	baseName = `${domain}_${slug}`;
+	pcFsPath = path.join(saveDir, `${baseName}_pc.mp4`);
+	spFsPath = path.join(saveDir, `${baseName}_sp.mp4`);
+	pcUIPath = `../${pcFsPath.replace(/\\/g, "/")}`;
+	spUIPath = `../${spFsPath.replace(/\\/g, "/")}`;
 }
 
 async function loadPuppeteer() {
@@ -379,7 +524,7 @@ function writeBackDb({ pcOk, spOk }) {
 		db = JSON.parse(fs.readFileSync(DB_FILE, "utf-8"));
 	}
 
-	const existingRecord = db[TARGET_URL] || {};
+	const existingRecord = db[dbKey] || {};
 	const existingMeta = existingRecord.meta || {};
 	const existingAssets = existingRecord.assets || {};
 	const existingVideo = existingAssets.video || { pc: null, sp: null };
@@ -387,7 +532,7 @@ function writeBackDb({ pcOk, spOk }) {
 
 	const depth = urlObj.pathname.split("/").filter(Boolean).length;
 
-	db[TARGET_URL] = {
+	db[dbKey] = {
 		...existingRecord,
 		meta: {
 			url: TARGET_URL,
@@ -417,17 +562,20 @@ function writeBackDb({ pcOk, spOk }) {
 	};
 
 	fs.writeFileSync(DB_FILE, JSON.stringify(db, null, 2));
-	console.log("💾 DB更新:", DB_FILE);
-	console.log("   assets.video.pc =", db[TARGET_URL].assets.video.pc);
-	console.log("   assets.video.sp =", db[TARGET_URL].assets.video.sp);
+	console.log("💾 DB更新:", DB_FILE, `[${dbKey}]`);
+	console.log("   assets.video.pc =", db[dbKey].assets.video.pc);
+	console.log("   assets.video.sp =", db[dbKey].assets.video.sp);
 }
 
 // ---------------------------------------
 // メイン
 // ---------------------------------------
 (async () => {
+	// 録画前に既存DBを検索し、保存先・DBキー・相対パスを確定する。
+	resolveTarget();
+
 	fs.mkdirSync(saveDir, { recursive: true });
-	fs.mkdirSync("./screenshots_db", { recursive: true });
+	fs.mkdirSync(DB_DIR, { recursive: true });
 
 	const puppeteer = await loadPuppeteer();
 	const browser = await puppeteer.launch({
