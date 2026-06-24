@@ -1,0 +1,29 @@
+{
+  "https://pics.tokyo/": {
+    "meta": {
+      "url": "https://pics.tokyo/",
+      "domain": "pics_tokyo",
+      "slug": "top",
+      "path": "/",
+      "depth": 0
+    },
+    "assets": {
+      "image": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      },
+      "video": {
+        "pc": "../screenshots/pics_tokyo/top/pics_tokyo_top_pc.mp4",
+        "sp": null
+      }
+    },
+    "analysis": {
+      "needsVideo": true
+    },
+    "tags": []
+  }
+}
