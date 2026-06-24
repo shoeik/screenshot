@@ -64,10 +64,6 @@
     "json": "screenshots_db/dena_com.json"
   },
   {
-    "id": "epoch-inc_jp",
-    "json": "screenshots_db/epoch-inc_jp.json"
-  },
-  {
     "id": "findy_co_jp",
     "json": "screenshots_db/findy_co_jp.json"
   },
@@ -152,10 +148,6 @@
     "json": "screenshots_db/nyle_co_jp.json"
   },
   {
-    "id": "pics_tokyo",
-    "json": "screenshots_db/pics_tokyo.json"
-  },
-  {
     "id": "plaid_co_jp",
     "json": "screenshots_db/plaid_co_jp.json"
   },
@@ -190,10 +182,6 @@
   {
     "id": "stockmark_co_jp",
     "json": "screenshots_db/stockmark_co_jp.json"
-  },
-  {
-    "id": "tbwahakuhodo_co_jp",
-    "json": "screenshots_db/tbwahakuhodo_co_jp.json"
   },
   {
     "id": "terass_com",

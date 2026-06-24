@@ -14,7 +14,7 @@
         "sp": "../screenshots/www_pics_tokyo/top/www_pics_tokyo_top_sp.webp"
       },
       "video": {
-        "pc": null,
+        "pc": "../screenshots/pics_tokyo/top/pics_tokyo_top_pc.mp4",
         "sp": null
       },
       "thumb": {
@@ -23,7 +23,7 @@
       }
     },
     "analysis": {
-      "needsVideo": false,
+      "needsVideo": true,
       "animationHeavy": false,
       "hasWebGL": false,
       "hasScrollTrigger": false,
