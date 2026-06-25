@@ -15,6 +15,7 @@ const execFileAsync = promisify(execFile);
  *
  * 使い方:
  *   node record_top.js https://hikarina.co.jp/
+ *   node record_top.js https://hikarina.co.jp/ --mode=frames --only=sp
  *
  * 既存レコードへの統合（重複レコード防止）:
  *   録画前に screenshots_db/*.json を走査し、対象URLに対応する
@@ -37,7 +38,8 @@ const execFileAsync = promisify(execFile);
  *   analysis.needsVideo = true。
  *
  * 依存:
- *   page.screencast()（Puppeteer ネイティブ）+ ffmpeg。
+ *   通常は page.screencast()（Puppeteer ネイティブ）+ ffmpeg。
+ *   --mode=frames 指定時のみ、PNG/JPEGフレーム連番 → ffmpeg mp4化を使う。
  *   ffmpeg は ffmpeg-static があればそれを、無ければ PATH の ffmpeg を使う。
  *
  * 実行環境:
@@ -75,6 +77,16 @@ const END_HOLD_MS = 1000;
 const FPS = 25;
 const SCROLL_STEP_INTERVAL = 120; // スクロール1ステップ間隔(ms)
 
+// screencastが短尺・途中停止しやすいサイト向けのfallback録画方式。
+// 一時JPEGフレームを作り、ffmpegでH.264/yuv420p/faststartへ変換する。
+const FRAMES_FPS = 18;
+const FRAMES_CRF = 26;
+const FRAMES_JPEG_QUALITY = 82;
+const FRAMES_HERO_HOLD_MS = 3200;
+const FRAMES_SCROLL_DURATION_MS = 22000;
+const FRAMES_END_HOLD_MS = 1200;
+const FRAMES_TMP_ROOT = path.join(".tmp", "record_frames");
+
 const VIEWPORTS = {
 	pc: {
 		width: 1280,
@@ -93,10 +105,32 @@ const VIEWPORTS = {
 // ---------------------------------------
 // 引数
 // ---------------------------------------
-const TARGET_URL = process.argv[2];
+const cliArgs = process.argv.slice(2);
+const TARGET_URL = cliArgs.find(arg => !arg.startsWith("--"));
 if (!TARGET_URL) {
 	console.error("❌ URL を指定してください");
 	console.error("   例: node record_top.js https://hikarina.co.jp/");
+	console.error("   例: node record_top.js https://hikarina.co.jp/ --mode=frames --only=sp");
+	process.exit(1);
+}
+
+const cliOptions = new Map(
+	cliArgs
+		.filter(arg => arg.startsWith("--"))
+		.map(arg => {
+			const [key, value = "true"] = arg.slice(2).split("=");
+			return [key, value];
+		})
+);
+
+const RECORD_MODE = cliOptions.get("mode") || "screencast";
+const ONLY_VIEWPORT = cliOptions.get("only") || "both";
+if (!["screencast", "frames"].includes(RECORD_MODE)) {
+	console.error(`❌ --mode は screencast または frames を指定してください: ${RECORD_MODE}`);
+	process.exit(1);
+}
+if (!["pc", "sp", "both"].includes(ONLY_VIEWPORT)) {
+	console.error(`❌ --only は pc / sp / both を指定してください: ${ONLY_VIEWPORT}`);
 	process.exit(1);
 }
 
@@ -272,6 +306,17 @@ function removeFileIfExists(filePath) {
 	}
 }
 
+function removeDirIfExists(dirPath) {
+	if (fs.existsSync(dirPath)) {
+		fs.rmSync(dirPath, { recursive: true, force: true });
+	}
+}
+
+function selectedViewportKeys() {
+	if (ONLY_VIEWPORT === "both") return ["pc", "sp"];
+	return [ONLY_VIEWPORT];
+}
+
 function parseDurationSeconds(value) {
 	const match = String(value).match(/^(\d+):(\d+):(\d+(?:\.\d+)?)$/);
 	if (!match) return null;
@@ -300,6 +345,39 @@ async function encodeVideo(inputPath, outputPath) {
 			"yuv420p",
 			"-crf",
 			"20",
+			"-preset",
+			"veryfast",
+			"-movflags",
+			"+faststart",
+			outputPath
+		],
+		{ maxBuffer: 10 * 1024 * 1024 }
+	);
+}
+
+async function encodeFramesToVideo(framesDir, outputPath) {
+	await execFileAsync(
+		FFMPEG_PATH,
+		[
+			"-y",
+			"-v",
+			"error",
+			"-framerate",
+			String(FRAMES_FPS),
+			"-i",
+			path.join(framesDir, "frame_%05d.jpg"),
+			"-map",
+			"0:v:0",
+			"-c:v",
+			"libx264",
+			"-profile:v",
+			"main",
+			"-pix_fmt",
+			"yuv420p",
+			"-vf",
+			"scale=trunc(iw/2)*2:trunc(ih/2)*2,format=yuv420p",
+			"-crf",
+			String(FRAMES_CRF),
 			"-preset",
 			"veryfast",
 			"-movflags",
@@ -471,11 +549,70 @@ async function autoScrollDown(page, durationMs = SCROLL_DURATION_MS) {
 	}
 }
 
+async function captureFrame(page, framePath) {
+	await page.screenshot({
+		path: framePath,
+		type: "jpeg",
+		quality: FRAMES_JPEG_QUALITY,
+		captureBeyondViewport: false
+	});
+}
+
+async function recordFrames(page, framesDir) {
+	removeDirIfExists(framesDir);
+	fs.mkdirSync(framesDir, { recursive: true });
+
+	await page.evaluate(() => window.scrollTo(0, 0));
+	const frameIntervalMs = 1000 / FRAMES_FPS;
+	let frameIndex = 0;
+
+	const capture = async () => {
+		const framePath = path.join(
+			framesDir,
+			`frame_${String(frameIndex).padStart(5, "0")}.jpg`
+		);
+		await captureFrame(page, framePath);
+		frameIndex++;
+	};
+
+	const captureHold = async durationMs => {
+		const frames = Math.max(1, Math.round(durationMs / frameIntervalMs));
+		for (let i = 0; i < frames; i++) {
+			await capture();
+			await wait(frameIntervalMs);
+		}
+	};
+
+	const metrics = await page.evaluate(() => ({
+		total: document.documentElement.scrollHeight,
+		vh: window.innerHeight
+	}));
+	const distance = Math.max(0, metrics.total - metrics.vh);
+
+	await captureHold(FRAMES_HERO_HOLD_MS);
+
+	if (distance > 0) {
+		const scrollFrames = Math.max(1, Math.round(FRAMES_SCROLL_DURATION_MS / frameIntervalMs));
+		for (let i = 1; i <= scrollFrames; i++) {
+			const y = Math.round((distance * i) / scrollFrames);
+			await page.evaluate(nextY => window.scrollTo(0, nextY), y);
+			await wait(frameIntervalMs);
+			await capture();
+		}
+	} else {
+		await captureHold(FRAMES_SCROLL_DURATION_MS);
+	}
+
+	await captureHold(FRAMES_END_HOLD_MS);
+	return frameIndex;
+}
+
 async function recordViewport(browser, key) {
 	const vp = VIEWPORTS[key];
 	const outPath = key === "pc" ? pcFsPath : spFsPath;
 	const rawPath = path.join(saveDir, `.${baseName}_${key}.${TEMP_SUFFIX}.raw.mp4`);
 	const encodedPath = path.join(saveDir, `.${baseName}_${key}.${TEMP_SUFFIX}.h264.mp4`);
+	const framesDir = path.join(FRAMES_TMP_ROOT, `${baseName}_${key}_${TEMP_SUFFIX}`);
 	let keepEncoded = false;
 
 	const page = await browser.newPage();
@@ -487,13 +624,18 @@ async function recordViewport(browser, key) {
 		await gotoWithFallback(page, TARGET_URL);
 		await preparePage(page);
 
-		const recorder = await page.screencast({ path: rawPath, fps: FPS });
-		await wait(HERO_HOLD_MS);
-		await autoScrollDown(page, SCROLL_DURATION_MS);
-		await wait(END_HOLD_MS);
-		await recorder.stop();
-
-		await encodeVideo(rawPath, encodedPath);
+		if (RECORD_MODE === "frames") {
+			const frameCount = await recordFrames(page, framesDir);
+			console.log(`   🧩 [${key.toUpperCase()}] frames captured: ${frameCount}`);
+			await encodeFramesToVideo(framesDir, encodedPath);
+		} else {
+			const recorder = await page.screencast({ path: rawPath, fps: FPS });
+			await wait(HERO_HOLD_MS);
+			await autoScrollDown(page, SCROLL_DURATION_MS);
+			await wait(END_HOLD_MS);
+			await recorder.stop();
+			await encodeVideo(rawPath, encodedPath);
+		}
 		const result = await validateVideo(encodedPath, vp);
 		keepEncoded = true;
 
@@ -508,6 +650,7 @@ async function recordViewport(browser, key) {
 		return { ok: false, error: error.message };
 	} finally {
 		removeFileIfExists(rawPath);
+		removeDirIfExists(framesDir);
 		if (!keepEncoded) {
 			removeFileIfExists(encodedPath);
 		}
@@ -573,6 +716,7 @@ function writeBackDb({ pcOk, spOk }) {
 (async () => {
 	// 録画前に既存DBを検索し、保存先・DBキー・相対パスを確定する。
 	resolveTarget();
+	console.log(`⚙️ 録画モード: ${RECORD_MODE} / 対象: ${ONLY_VIEWPORT}`);
 
 	fs.mkdirSync(saveDir, { recursive: true });
 	fs.mkdirSync(DB_DIR, { recursive: true });
@@ -587,18 +731,21 @@ function writeBackDb({ pcOk, spOk }) {
 	let pcResult = { ok: false };
 	let spResult = { ok: false };
 	try {
-		pcResult = await recordViewport(browser, "pc");
-		spResult = await recordViewport(browser, "sp");
+		for (const key of selectedViewportKeys()) {
+			if (key === "pc") pcResult = await recordViewport(browser, "pc");
+			if (key === "sp") spResult = await recordViewport(browser, "sp");
+		}
 	} finally {
 		await browser.close();
 	}
 
 	const pcOk = pcResult.ok === true;
 	const spOk = spResult.ok === true;
-	if (pcOk && spOk) {
+	const okResults = [pcResult, spResult].filter(result => result.ok === true);
+	if (okResults.length > 0) {
 		try {
-			installValidatedVideos([pcResult, spResult]);
-			console.log("   ✅ PC/SP動画を検証済みファイルへ置換");
+			installValidatedVideos(okResults);
+			console.log("   ✅ 検証済み動画を出力ファイルへ置換");
 			writeBackDb({ pcOk, spOk });
 		} finally {
 			removeFileIfExists(pcResult.validatedPath);
@@ -607,7 +754,7 @@ function writeBackDb({ pcOk, spOk }) {
 	} else {
 		removeFileIfExists(pcResult.validatedPath);
 		removeFileIfExists(spResult.validatedPath);
-		console.log("⚠️ PC/SPの両方が検証成功しなかったため、動画とDBは更新しません");
+		console.log("⚠️ 指定対象が検証成功しなかったため、動画とDBは更新しません");
 		process.exitCode = 1;
 	}
 
