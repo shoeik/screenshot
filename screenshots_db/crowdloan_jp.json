@@ -25,5 +25,10 @@
       "needsVideo": true
     },
     "tags": []
+  },
+  "_site": {
+    "tags": [
+      "has-video"
+    ]
   }
 }

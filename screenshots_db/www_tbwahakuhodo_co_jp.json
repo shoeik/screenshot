@@ -35,6 +35,13 @@
     "tags": []
   },
   "_site": {
-    "tags": ["design", "agency", "portfolio", "bold", "editorial"]
+    "tags": [
+      "design",
+      "agency",
+      "portfolio",
+      "bold",
+      "editorial",
+      "has-video"
+    ]
   }
 }
