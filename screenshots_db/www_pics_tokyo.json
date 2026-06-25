@@ -15,7 +15,7 @@
       },
       "video": {
         "pc": "../screenshots/www_pics_tokyo/top/www_pics_tokyo_top_pc.mp4",
-        "sp": null
+        "sp": "../screenshots/www_pics_tokyo/top/www_pics_tokyo_top_sp.mp4"
       },
       "thumb": {
         "pc": null,
