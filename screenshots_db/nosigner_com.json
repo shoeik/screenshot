@@ -1,0 +1,29 @@
+{
+  "https://nosigner.com/": {
+    "meta": {
+      "url": "https://nosigner.com/",
+      "domain": "nosigner_com",
+      "slug": "top",
+      "path": "/",
+      "depth": 0
+    },
+    "assets": {
+      "image": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      },
+      "video": {
+        "pc": "../screenshots/nosigner_com/top/nosigner_com_top_pc.mp4",
+        "sp": "../screenshots/nosigner_com/top/nosigner_com_top_sp.mp4"
+      }
+    },
+    "analysis": {
+      "needsVideo": true
+    },
+    "tags": []
+  }
+}

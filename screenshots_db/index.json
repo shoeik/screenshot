@@ -12,6 +12,10 @@
     "json": "screenshots_db/binc_jp.json"
   },
   {
+    "id": "college8_jp",
+    "json": "screenshots_db/college8_jp.json"
+  },
+  {
     "id": "corp_akatsuki-sc_com",
     "json": "screenshots_db/corp_akatsuki-sc_com.json"
   },
@@ -50,6 +54,10 @@
   {
     "id": "corporate_murata_com",
     "json": "screenshots_db/corporate_murata_com.json"
+  },
+  {
+    "id": "crowdloan_jp",
+    "json": "screenshots_db/crowdloan_jp.json"
   },
   {
     "id": "crowdworks_co_jp",
@@ -124,6 +132,10 @@
     "json": "screenshots_db/micoworks_jp.json"
   },
   {
+    "id": "milize_co_jp",
+    "json": "screenshots_db/milize_co_jp.json"
+  },
+  {
     "id": "mixi_co_jp",
     "json": "screenshots_db/mixi_co_jp.json"
   },
@@ -138,6 +150,10 @@
   {
     "id": "mount_jp",
     "json": "screenshots_db/mount_jp.json"
+  },
+  {
+    "id": "nosigner_com",
+    "json": "screenshots_db/nosigner_com.json"
   },
   {
     "id": "note_jp",
@@ -286,6 +302,10 @@
   {
     "id": "www_imgsrc_co_jp",
     "json": "screenshots_db/www_imgsrc_co_jp.json"
+  },
+  {
+    "id": "www_infobahn_co_jp",
+    "json": "screenshots_db/www_infobahn_co_jp.json"
   },
   {
     "id": "www_istyle_co_jp",

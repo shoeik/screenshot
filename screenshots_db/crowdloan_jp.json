@@ -1,0 +1,29 @@
+{
+  "https://crowdloan.jp/": {
+    "meta": {
+      "url": "https://crowdloan.jp/",
+      "domain": "crowdloan_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0
+    },
+    "assets": {
+      "image": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      },
+      "video": {
+        "pc": "../screenshots/crowdloan_jp/top/crowdloan_jp_top_pc.mp4",
+        "sp": "../screenshots/crowdloan_jp/top/crowdloan_jp_top_sp.mp4"
+      }
+    },
+    "analysis": {
+      "needsVideo": true
+    },
+    "tags": []
+  }
+}

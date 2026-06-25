@@ -1,0 +1,29 @@
+{
+  "https://college8.jp/": {
+    "meta": {
+      "url": "https://college8.jp/",
+      "domain": "college8_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0
+    },
+    "assets": {
+      "image": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      },
+      "video": {
+        "pc": "../screenshots/college8_jp/top/college8_jp_top_pc.mp4",
+        "sp": "../screenshots/college8_jp/top/college8_jp_top_sp.mp4"
+      }
+    },
+    "analysis": {
+      "needsVideo": true
+    },
+    "tags": []
+  }
+}

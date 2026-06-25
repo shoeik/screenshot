@@ -1,0 +1,29 @@
+{
+  "https://milize.co.jp/": {
+    "meta": {
+      "url": "https://milize.co.jp/",
+      "domain": "milize_co_jp",
+      "slug": "top",
+      "path": "/",
+      "depth": 0
+    },
+    "assets": {
+      "image": {
+        "pc": null,
+        "sp": null
+      },
+      "thumb": {
+        "pc": null,
+        "sp": null
+      },
+      "video": {
+        "pc": "../screenshots/milize_co_jp/top/milize_co_jp_top_pc.mp4",
+        "sp": "../screenshots/milize_co_jp/top/milize_co_jp_top_sp.mp4"
+      }
+    },
+    "analysis": {
+      "needsVideo": true
+    },
+    "tags": []
+  }
+}
